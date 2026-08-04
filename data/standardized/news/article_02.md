@@ -6,7 +6,7 @@
 ---
 
 [ ![Luật Việt Nam](https://cdn2.luatvietnam.vn/images/logo.svg) ](https://luatvietnam.vn/)
-Danh mục 
+Danh mục
 |
 Tổng đài trực tuyến **19006192**
 |
@@ -65,7 +65,7 @@ Tổng đài trực tuyến **19006192**
     * [ Giá xăng hôm nay ](https://luatvietnam.vn/bang-gia-xang-dau-hom-nay.html "Giá xăng hôm nay")
 
 
-Tất cả chuyên mục Đóng 
+Tất cả chuyên mục Đóng
 [Văn bản](https://luatvietnam.vn/lao-dong/quyet-dinh-3187-qd-ubnd-da-nang-2026-phe-duyet-ke-hoach-kiem-tra-an-toan-ve-sinh-lao-dong-441443-d2.html "Văn bản")
   * [ Văn bản mới ](https://luatvietnam.vn/van-ban-moi.html "Văn bản mới")
   * [ Văn bản luật Việt Nam ](https://luatvietnam.vn/van-ban-luat-viet-nam.html "Văn bản luật Việt Nam")
@@ -230,66 +230,66 @@ Tìm kiếm
 [ Tìm nâng cao ](https://luatvietnam.vn/van-ban/tim-kiem.html?AdvancedSearch=1 "Tìm nâng cao")
 [Văn bản](javascript:void\(0\)) [Tin tức](javascript:void\(0\)) [Hỏi đáp](javascript:void\(0\)) [Bản án](javascript:void\(0\))
 [👉 _Quay về: Tra cứu văn bản (phiên bản cũ)_](https://luatvietnam.vn/van-ban/tim-van-ban.html)
-Mục lục 
-  * Tổng quan 
-  * Nội dung 
-  * VB gốc 
+Mục lục
+  * Tổng quan
+  * Nội dung
+  * VB gốc
   * Tiếng Anh
-  * Hiệu lực 
-  * VB liên quan 
-  * Lược đồ 
-  * Nội dung hợp nhất 
+  * Hiệu lực
+  * VB liên quan
+  * Lược đồ
+  * Nội dung hợp nhất
 Tính năng này chỉ có tại LuatVietnam.vn. Nội dung hợp nhất tổng hợp lại tất cả các quy định còn hiệu lực của văn bản gốc và các văn bản sửa đổi, bổ sung, đính chính... trên một trang. Việc hợp nhất văn bản gốc và những văn bản, Thông tư, Nghị định hướng dẫn khác không làm thay đổi thứ tự điều khoản, nội dung.
 Khách hàng chỉ cần xem Nội dung hợp nhất là có thể nắm bắt toàn bộ quy định hiện hành đang áp dụng, cho dù văn bản gốc đã qua nhiều lần chỉnh sửa, bổ sung.
 [ =>> Xem hướng dẫn chi tiết cách sử dụng Nội dung hợp nhất ](https://www.youtube.com/watch?v=xQfPxq-Fkms "Xem hướng dẫn chi tiết cách sử dụng Nội dung hợp nhất")
-  * Tải về 
+  * Tải về
 
 
-Mục lục 
+Mục lục
 Lưu
 Đây là tiện ích dành cho tài khoản [ Tiêu chuẩn ](https://luatvietnam.vn/dich-vu.html) hoặc [ Nâng cao ](https://luatvietnam.vn/dich-vu.html). Vui lòng [Đăng nhập](https://luatvietnam.vn/lao-dong/quyet-dinh-3187-qd-ubnd-da-nang-2026-phe-duyet-ke-hoach-kiem-tra-an-toan-ve-sinh-lao-dong-441443-d2.html) tài khoản để xem chi tiết.
 Theo dõi VB
 Đây là tiện ích dành cho tài khoản [ Tiêu chuẩn ](https://luatvietnam.vn/dich-vu.html) hoặc [ Nâng cao ](https://luatvietnam.vn/dich-vu.html). Vui lòng [Đăng nhập](https://luatvietnam.vn/lao-dong/quyet-dinh-3187-qd-ubnd-da-nang-2026-phe-duyet-ke-hoach-kiem-tra-an-toan-ve-sinh-lao-dong-441443-d2.html) tài khoản để xem chi tiết.
 Ghi chú
 Báo lỗi
-In 
-  * Báo lỗi 
+In
+  * Báo lỗi
   * [ Gửi liên kết tới Email ](https://luatvietnam.vn/lao-dong/quyet-dinh-3187-qd-ubnd-da-nang-2026-phe-duyet-ke-hoach-kiem-tra-an-toan-ve-sinh-lao-dong-441443-d2.html "Gửi liên kết tới Email")
   * Chia sẻ:  [ ](https://luatvietnam.vn/lao-dong/quyet-dinh-3187-qd-ubnd-da-nang-2026-phe-duyet-ke-hoach-kiem-tra-an-toan-ve-sinh-lao-dong-441443-d2.html "Chia sẻ qua Facebook") [ ](https://luatvietnam.vn/lao-dong/quyet-dinh-3187-qd-ubnd-da-nang-2026-phe-duyet-ke-hoach-kiem-tra-an-toan-ve-sinh-lao-dong-441443-d2.html "Chia sẻ qua X")
 
 
 # Quyết định 3187/QĐ-UBND Đà Nẵng 2026 phê duyệt Kế hoạch kiểm tra an toàn vệ sinh lao động
-Ngày cập nhật: Thứ Bảy, 25/07/2026 09:26 (GMT+7)  
-| **Cơ quan ban hành:**  |  Ủy ban nhân dân thành phố Đà Nẵng  |  **Số công báo:** Số công báo là mã số ấn phẩm được đăng chính thức trên ấn phẩm thông tin của Nhà nước. Mã số này do Chính phủ thống nhất quản lý.   |  _Đang cập nhật_  |  
-| --- | --- | --- | --- |  
-| **Số hiệu:**  | 3187/QĐ-UBND  | **Ngày đăng công báo:**  |  _Đang cập nhật_  |  
-| **Loại văn bản:**  |  Quyết định  | **Người ký:**  |  Nguyễn Thị Anh Thi  |  
-| **Trích yếu:**  |  Về việc phê duyệt Kế hoạch kiểm tra chuyên đề về an toàn, vệ sinh lao động trên địa bàn thành phố Đà Nẵng năm 2026   |  
-|  **Ngày ban hành:** Ngày ban hành là ngày, tháng, năm văn bản được thông qua hoặc ký ban hành.   | 20/07/2026  |  **Ngày hết hiệu lực:** Ngày hết hiệu lực là ngày, tháng, năm văn bản chính thức không còn hiệu lực (áp dụng).   |  _Đang cập nhật_  |  
-|  **Áp dụng:** Ngày áp dụng là ngày, tháng, năm văn bản chính thức có hiệu lực (áp dụng).   |  Đã biết Tiện ích dành cho tài khoản [Tiêu chuẩn](https://luatvietnam.vn/dich-vu.html) hoặc [Nâng cao](https://luatvietnam.vn/dich-vu.html). Vui lòng [Đăng nhập](javascript:void\(0\)) tài khoản để xem chi tiết.   |  **Tình trạng hiệu lực:** Cho biết trạng thái hiệu lực của văn bản đang tra cứu: Chưa áp dụng, Còn hiệu lực, Hết hiệu lực, Hết hiệu lực 1 phần; Đã sửa đổi, Đính chính hay Không còn phù hợp,...   |  Đã biết Tiện ích dành cho tài khoản [Tiêu chuẩn](https://luatvietnam.vn/dich-vu.html) hoặc [Nâng cao](https://luatvietnam.vn/dich-vu.html). Vui lòng [Đăng nhập](javascript:void\(0\)) tài khoản để xem chi tiết.   |  
-| **Lĩnh vực:**  |  [Lao động-Tiền lương](https://luatvietnam.vn/lao-dong-tien-luong-7-f2.html "Lao động-Tiền lương")  |   |   |  
+Ngày cập nhật: Thứ Bảy, 25/07/2026 09:26 (GMT+7)
+| **Cơ quan ban hành:**  |  Ủy ban nhân dân thành phố Đà Nẵng  |  **Số công báo:** Số công báo là mã số ấn phẩm được đăng chính thức trên ấn phẩm thông tin của Nhà nước. Mã số này do Chính phủ thống nhất quản lý.   |  _Đang cập nhật_  |
+| --- | --- | --- | --- |
+| **Số hiệu:**  | 3187/QĐ-UBND  | **Ngày đăng công báo:**  |  _Đang cập nhật_  |
+| **Loại văn bản:**  |  Quyết định  | **Người ký:**  |  Nguyễn Thị Anh Thi  |
+| **Trích yếu:**  |  Về việc phê duyệt Kế hoạch kiểm tra chuyên đề về an toàn, vệ sinh lao động trên địa bàn thành phố Đà Nẵng năm 2026   |
+|  **Ngày ban hành:** Ngày ban hành là ngày, tháng, năm văn bản được thông qua hoặc ký ban hành.   | 20/07/2026  |  **Ngày hết hiệu lực:** Ngày hết hiệu lực là ngày, tháng, năm văn bản chính thức không còn hiệu lực (áp dụng).   |  _Đang cập nhật_  |
+|  **Áp dụng:** Ngày áp dụng là ngày, tháng, năm văn bản chính thức có hiệu lực (áp dụng).   |  Đã biết Tiện ích dành cho tài khoản [Tiêu chuẩn](https://luatvietnam.vn/dich-vu.html) hoặc [Nâng cao](https://luatvietnam.vn/dich-vu.html). Vui lòng [Đăng nhập](javascript:void\(0\)) tài khoản để xem chi tiết.   |  **Tình trạng hiệu lực:** Cho biết trạng thái hiệu lực của văn bản đang tra cứu: Chưa áp dụng, Còn hiệu lực, Hết hiệu lực, Hết hiệu lực 1 phần; Đã sửa đổi, Đính chính hay Không còn phù hợp,...   |  Đã biết Tiện ích dành cho tài khoản [Tiêu chuẩn](https://luatvietnam.vn/dich-vu.html) hoặc [Nâng cao](https://luatvietnam.vn/dich-vu.html). Vui lòng [Đăng nhập](javascript:void\(0\)) tài khoản để xem chi tiết.   |
+| **Lĩnh vực:**  |  [Lao động-Tiền lương](https://luatvietnam.vn/lao-dong-tien-luong-7-f2.html "Lao động-Tiền lương")  |   |   |
 ## TÓM TẮT QUYẾT ĐỊNH 3187/QĐ-UBND
 _Nội dung tóm tắt đang được cập nhật, Quý khách vui lòng quay lại sau!_
 ## Tải Quyết định 3187/QĐ-UBND
 Quyết định 3187/QĐ-UBND PDF (Bản có dấu đỏ)
-Đây là tiện ích dành cho tài khoản thành viên. Vui lòng [Đăng nhập](javascript:void\(0\)) để xem chi tiết. Nếu chưa có tài khoản, [Đăng ký](javascript:void\(0\)) tại đây! 
+Đây là tiện ích dành cho tài khoản thành viên. Vui lòng [Đăng nhập](javascript:void\(0\)) để xem chi tiết. Nếu chưa có tài khoản, [Đăng ký](javascript:void\(0\)) tại đây!
 Quyết định 3187/QĐ-UBND DOC (Bản Word)
-Đây là tiện ích dành cho tài khoản thành viên. Vui lòng [Đăng nhập](javascript:void\(0\)) để xem chi tiết. Nếu chưa có tài khoản, [Đăng ký](javascript:void\(0\)) tại đây! 
+Đây là tiện ích dành cho tài khoản thành viên. Vui lòng [Đăng nhập](javascript:void\(0\)) để xem chi tiết. Nếu chưa có tài khoản, [Đăng ký](javascript:void\(0\)) tại đây!
 Tình trạng hiệu lực: **Đã biết**
 Hiệu lực: Đã biết
-Tình trạng hiệu lực: Đã biết  
-|  **ỦY BAN NHÂN DÂN**  
-**THÀNH PHỐ ĐÀ NẴNG**  
-_______  
-Số: 3187/QĐ-UBND  |  **CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM**  
-**Độc lập – Tự do – Hạnh phúc**  
-_________________  
-_Đà Nẵng, ngày 20 tháng 7 năm 2026_  |  
-| --- | --- |  
-**QUYẾT ĐỊNH**  
-**Về việc phê duyệt Kế hoạch kiểm tra chuyên đề về an toàn, vệ sinh**  
-**lao động trên địa bàn thành phố Đà Nẵng năm 2026**  
-_________________  
+Tình trạng hiệu lực: Đã biết
+|  **ỦY BAN NHÂN DÂN**
+**THÀNH PHỐ ĐÀ NẴNG**
+_______
+Số: 3187/QĐ-UBND  |  **CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM**
+**Độc lập – Tự do – Hạnh phúc**
+_________________
+_Đà Nẵng, ngày 20 tháng 7 năm 2026_  |
+| --- | --- |
+**QUYẾT ĐỊNH**
+**Về việc phê duyệt Kế hoạch kiểm tra chuyên đề về an toàn, vệ sinh**
+**lao động trên địa bàn thành phố Đà Nẵng năm 2026**
+_________________
 **CHỦ TỊCH ỦY BAN NHÂN DÂN THÀNH PHỐ ĐÀ NẴNG**
 _Căn cứ Luật Tổ chức chính quyền địa phương số[72/2025/QH15](https://luatvietnam.vn/co-cau-to-chuc/luat-to-chuc-chinh-quyen-dia-phuong-2025-so-72-2025-qh15-403006-d1.html "72/2025/QH15");_
 _Căn cứ Luật Thanh tra số[84/2025/QH15](https://luatvietnam.vn/hanh-chinh/luat-thanh-tra-2025-so-84-2025-qh15-404441-d1.html "84/2025/QH15");_
@@ -304,33 +304,33 @@ _Theo đề nghị của Giám đốc Sở Nội vụ tại Tờ trình số 685
 **Điều 3. Quyết định này có hiệu lực thi hành kể từ ngày ký.**
 Đang theo dõi
 **Điều 4. Chánh Văn phòng UBND thành phố; Chánh Thanh tra thành phố; Giám đốc các Sở: Nội vụ, Y tế, Công Thương, Xây dựng, Nông nghiệp và Môi trường; Trưởng Ban Quản lý Khu công nghệ cao và các khu công nghiệp Đà Nẵng; Trưởng Ban Quản lý Khu kinh tế mở Chu Lai thành phố Đà Nẵng; Chủ tịch Liên đoàn Lao động thành phố, Bảo hiểm xã hội thành phố và các doanh nghiệp, tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này./.**
-Đang theo dõi  
-|  **_Nơi nhận:_**  
-- Như Điều 4;  
-- Chủ tịch, các PCT UBND TP;  
-- Kiểm toán Nhà nước Khu vực III;  
-- Thuế thành phố;  
-- Các sở, ban, ngành thành phố;  
-- UBND các xã, phường (có DN được kiểm tra);  
-- Lưu: VT, SNV.  |  **KT. CHỦ TỊCH**  
-**PHÓ CHỦ TỊCH**   
-  
-  
-  
-  
-  
-**Nguyễn Thị Anh Thi**  |  
-| --- | --- |  
-|  **ỦY BAN NHÂN DÂN**  
-**THÀNH PHỐ ĐÀ NẴNG**  
-_______  |  **CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM**  
-**Độc lập – Tự do – Hạnh phúc**  
-_________________  |  
-| --- | --- |  
-**KẾ HOẠCH**  
-**Kiểm tra chuyên đề về an toàn, vệ sinh lao động**  
-**trên địa bàn thành phố Đà Nẵng năm 2026**  
-_(Kèm theo Quyết định số: 3187/QĐ-UBND ngày 20 tháng 7 năm 2026_  
+Đang theo dõi
+|  **_Nơi nhận:_**
+- Như Điều 4;
+- Chủ tịch, các PCT UBND TP;
+- Kiểm toán Nhà nước Khu vực III;
+- Thuế thành phố;
+- Các sở, ban, ngành thành phố;
+- UBND các xã, phường (có DN được kiểm tra);
+- Lưu: VT, SNV.  |  **KT. CHỦ TỊCH**
+**PHÓ CHỦ TỊCH**
+
+
+
+
+
+**Nguyễn Thị Anh Thi**  |
+| --- | --- |
+|  **ỦY BAN NHÂN DÂN**
+**THÀNH PHỐ ĐÀ NẴNG**
+_______  |  **CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM**
+**Độc lập – Tự do – Hạnh phúc**
+_________________  |
+| --- | --- |
+**KẾ HOẠCH**
+**Kiểm tra chuyên đề về an toàn, vệ sinh lao động**
+**trên địa bàn thành phố Đà Nẵng năm 2026**
+_(Kèm theo Quyết định số: 3187/QĐ-UBND ngày 20 tháng 7 năm 2026_
 _của Chủ tịch UBND thành phố Đà Nẵng)_
 **I. MỤC ĐÍCH, YÊU CẦU**
 Đang theo dõi
@@ -405,7 +405,7 @@ b) Sổ theo dõi huấn luyện, chứng chỉ, chứng nhận huấn luyện, 
 Quyết định 3187/QĐ-UBND của Ủy ban nhân dân thành phố Đà Nẵng về việc phê duyệt Kế hoạch kiểm tra chuyên đề về an toàn, vệ sinh lao động trên địa bàn thành phố Đà Nẵng năm 2026
 **Bạn chưa Đăng nhập thành viên.**
 Đây là tiện ích dành cho tài khoản thành viên. Vui lòng Đăng nhập để xem chi tiết. Nếu chưa có tài khoản, vui lòng Đăng ký tại đây!
-*** Lưu ý:** Để đọc được văn bản tải trên Luatvietnam.vn, bạn cần cài phần mềm đọc file DOC, DOCX và phần mềm đọc file PDF. 
+*** Lưu ý:** Để đọc được văn bản tải trên Luatvietnam.vn, bạn cần cài phần mềm đọc file DOC, DOCX và phần mềm đọc file PDF.
 [ Hải Yến ](https://luatvietnam.vn/author/hai-yen-luatvietnam-28.html "Hải Yến ")
 ## văn bản cùng lĩnh vực
 [ ![image](https://cdn2.luatvietnam.vn/images/file-text.svg) ](https://luatvietnam.vn/lao-dong/quyet-dinh-3853-qd-ubnd-ha-noi-2026-bai-bo-quyet-dinh-3815-qd-ubnd-quan-ly-hoa-giai-vien-lao-dong-442182-d2.html)
@@ -446,7 +446,7 @@ Quyết định 3187/QĐ-UBND của Ủy ban nhân dân thành phố Đà Nẵng
 ### [Kế hoạch 279/KH-UBND của Ủy ban nhân dân tỉnh Bắc Ninh thực hiện Chương trình phòng ngừa và ứng phó với bạo lực trên cơ sở giới giai đoạn 2026 - 2030 trên địa bàn tỉnh Bắc Ninh](https://luatvietnam.vn/an-ninh-trat-tu/ke-hoach-279-kh-ubnd-bac-ninh-thuc-hien-chuong-trinh-phong-ngua-va-ung-pho-bao-luc-gioi-2026-2030-441392-d2.html)
 [An ninh trật tự](https://luatvietnam.vn/an-ninh-trat-tu-11-f1.html)
 [Xem thêm ](https://luatvietnam.vn/van-ban-moi.html)
-### Hỏi đáp pháp luật về Lao động-Tiền lương 
+### Hỏi đáp pháp luật về Lao động-Tiền lương
   * [Tự ý nghỉ phép khi chưa được Công ty duyệt: Có bị buộc thôi việc không?](https://luatvietnam.vn/luat-su-tu-van/tu-y-nghi-phep-khi-chua-duoc-cong-ty-duyet-co-bi-buoc-thoi-viec-khong-151296-faqs.html)
   * [Ngày đi đường được cộng khi nghỉ phép năm?](https://luatvietnam.vn/luat-su-tu-van/ngay-di-duong-duoc-cong-khi-nghi-phep-nam-151061-faqs.html)
   * [Ngày đi đường được cộng khi nghỉ phép năm?](https://luatvietnam.vn/luat-su-tu-van/ngay-di-duong-duoc-cong-khi-nghi-phep-nam-151060-faqs.html)
@@ -485,7 +485,7 @@ Quyết định 3187/QĐ-UBND của Ủy ban nhân dân thành phố Đà Nẵng
 
 
 [ Xem thêm ](https://luatvietnam.vn/tin-van-ban-moi-c186-article.html)
-Mục lục 
+Mục lục
   * Tổng quan
   * Nội dung
   * VB gốc
@@ -493,17 +493,17 @@ Mục lục
   * Hiệu lực
   * VB liên quan
   * Lược đồ
-  * Nội dung hợp nhất 
+  * Nội dung hợp nhất
 Tính năng này chỉ có tại LuatVietnam.vn. Nội dung hợp nhất tổng hợp lại tất cả các quy định còn hiệu lực của văn bản gốc và các văn bản sửa đổi, bổ sung, đính chính... trên một trang. Việc hợp nhất văn bản gốc và những văn bản, Thông tư, Nghị định hướng dẫn khác không làm thay đổi thứ tự điều khoản, nội dung.
 Khách hàng chỉ cần xem Nội dung hợp nhất là có thể nắm bắt toàn bộ quy định hiện hành đang áp dụng, cho dù văn bản gốc đã qua nhiều lần chỉnh sửa, bổ sung.
 [ =>> Xem hướng dẫn chi tiết cách sử dụng Nội dung hợp nhất ](https://www.youtube.com/watch?v=xQfPxq-Fkms "Xem hướng dẫn chi tiết cách sử dụng Nội dung hợp nhất")
-  * Tải về 
+  * Tải về
 
 
 Đây là tiện ích dành cho tài khoản [ Tiêu chuẩn ](https://luatvietnam.vn/dich-vu.html) hoặc [ Nâng cao ](https://luatvietnam.vn/dich-vu.html). Vui lòng [Đăng nhập](https://luatvietnam.vn/lao-dong/quyet-dinh-3187-qd-ubnd-da-nang-2026-phe-duyet-ke-hoach-kiem-tra-an-toan-ve-sinh-lao-dong-441443-d2.html) tài khoản để xem chi tiết.
 Đây là tiện ích dành cho tài khoản [ Tiêu chuẩn ](https://luatvietnam.vn/dich-vu.html) hoặc [ Nâng cao ](https://luatvietnam.vn/dich-vu.html). Vui lòng [Đăng nhập](https://luatvietnam.vn/lao-dong/quyet-dinh-3187-qd-ubnd-da-nang-2026-phe-duyet-ke-hoach-kiem-tra-an-toan-ve-sinh-lao-dong-441443-d2.html) tài khoản để xem chi tiết.
-In 
-  * Báo lỗi 
+In
+  * Báo lỗi
   * [ Gửi liên kết tới Email ](https://luatvietnam.vn/lao-dong/quyet-dinh-3187-qd-ubnd-da-nang-2026-phe-duyet-ke-hoach-kiem-tra-an-toan-ve-sinh-lao-dong-441443-d2.html "Gửi liên kết tới Email")
   * Chia sẻ:  [ ](https://luatvietnam.vn/lao-dong/quyet-dinh-3187-qd-ubnd-da-nang-2026-phe-duyet-ke-hoach-kiem-tra-an-toan-ve-sinh-lao-dong-441443-d2.html "Chia sẻ qua Facebook") [ ](https://luatvietnam.vn/lao-dong/quyet-dinh-3187-qd-ubnd-da-nang-2026-phe-duyet-ke-hoach-kiem-tra-an-toan-ve-sinh-lao-dong-441443-d2.html "Chia sẻ qua X")
 
@@ -538,13 +538,13 @@ Chính sách
 Giấy phép thiết lập trang Thông tin điện tử tổng hợp số: 692/GP-TTĐT cấp ngày 29/10/2010 bởi
 Sở TT-TT Hà Nội, thay thế giấy phép số: 322/GP - BC, ngày 26/07/2007, cấp bởi Bộ Thông tin và Truyền thông
 Chứng nhận bản quyền tác giả số 280/2009/QTG ngày 16/02/2009, cấp bởi Bộ Văn hoá - Thể thao - Du lịch
-Cơ quan chủ quản: Công ty Cổ phần Truyền thông Luật Việt Nam. Chịu trách nhiệm: Ông Trần Văn Trí 
+Cơ quan chủ quản: Công ty Cổ phần Truyền thông Luật Việt Nam. Chịu trách nhiệm: Ông Trần Văn Trí
 **Hỗ trợ về dịch vụ:** **0938 36 1919**
 **Hỗ trợ giải đáp pháp luật:** [**1900 6192**](tel:19006192)
 [ ![](https://cdn2.luatvietnam.vn/images/1-face.png) ](https://www.facebook.com/Luatvietnam.vn "Facebook LuatVietnam") [ ![](https://cdn2.luatvietnam.vn/images/2-zalo.png) ](https://zalo.me/0938361919 "Zalo LuatVietnam") [![](https://cdn2.luatvietnam.vn/images/3-you.png)](https://www.youtube.com/channel/UCJS4-HA9bdP8ZJ9o_mFRIFA/videos "Youtube LuatVietnam") [ ![](https://cdn2.luatvietnam.vn/images/4-tiktok.png) ](https://www.tiktok.com/@luatvietnam "TikTok LuatVietnam") [![](https://cdn2.luatvietnam.vn/images/5-tw.png) ](https://twitter.com/LuatVietNam_VN "Twitter LuatVietnam") [ ![linkedin](https://cdn2.luatvietnam.vn/images/7-linkedin.svg) ](https://www.linkedin.com/in/luatvietnam/ "Linkedin LuatVietnam")
-Tải ứng dụng luatvietnam 
+Tải ứng dụng luatvietnam
 ![qrcode](https://cdn2.luatvietnam.vn/images/qrcode-lvn.svg) [![googleplay](https://cdn2.luatvietnam.vn/images/google-play-badge.svg)](https://play.google.com/store/apps/details?id=com.iccom.luatvietnam) [![appstore](https://cdn2.luatvietnam.vn/images/appstore-badge.svg)](https://apps.apple.com/us/app/lu%E1%BA%ADt-vi%E1%BB%87t-nam/id1498874008)
-Quét mã QR code để cài đặt 
+Quét mã QR code để cài đặt
 Trụ sở: Tầng 3, Toà nhà IC, 82 Duy Tân, P.Cầu Giấy, TP.Hà Nội
 VPĐD: 648 Nguyễn Kiệm, Phường Đức Nhuận, TP. Hồ Chí Minh
 Điện thoại: 0938 36 1919 - Email: cskh@luatvietnam.vn
@@ -557,9 +557,9 @@ Liên hệ quảng cáo; quyền tác giả và các quyền liên quan: thuybt@
 
 
 CHÍNH SÁCH BẢO VỆ DỮ LIỆU CÁ NHÂN
-![Yêu cầu hỗ trợ](https://cdn2.luatvietnam.vn/images/support.svg)Yêu cầu hỗ trợ 
+![Yêu cầu hỗ trợ](https://cdn2.luatvietnam.vn/images/support.svg)Yêu cầu hỗ trợ
 Chú thích màu chỉ dẫn
-**Chú thích màu chỉ dẫn:**  
+**Chú thích màu chỉ dẫn:**
 _Các nội dung của VB này được VB khác thay đổi, hướng dẫn sẽ được làm nổi bật bằng các màu sắc:_
 Sửa đổi, bổ sung, đính chính
 Thay thế

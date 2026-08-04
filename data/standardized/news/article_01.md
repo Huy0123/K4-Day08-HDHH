@@ -6,7 +6,7 @@
 ---
 
 [ ![Luật Việt Nam](https://cdn2.luatvietnam.vn/images/logo.svg) ](https://luatvietnam.vn/)
-Danh mục 
+Danh mục
 |
 Tổng đài trực tuyến **19006192**
 |
@@ -65,7 +65,7 @@ Tổng đài trực tuyến **19006192**
     * [ Giá xăng hôm nay ](https://luatvietnam.vn/bang-gia-xang-dau-hom-nay.html "Giá xăng hôm nay")
 
 
-Tất cả chuyên mục Đóng 
+Tất cả chuyên mục Đóng
 [Văn bản](https://luatvietnam.vn/lao-dong/cong-van-7851-bnv-tcbc-2026-huong-dan-thuc-hien-che-do-chinh-sach-theo-nghi-dinh-154-2025-nd-cp-441866-d6.html "Văn bản")
   * [ Văn bản mới ](https://luatvietnam.vn/van-ban-moi.html "Văn bản mới")
   * [ Văn bản luật Việt Nam ](https://luatvietnam.vn/van-ban-luat-viet-nam.html "Văn bản luật Việt Nam")
@@ -230,18 +230,18 @@ Tìm kiếm
 [ Tìm nâng cao ](https://luatvietnam.vn/van-ban/tim-kiem.html?AdvancedSearch=1 "Tìm nâng cao")
 [Văn bản](javascript:void\(0\)) [Tin tức](javascript:void\(0\)) [Hỏi đáp](javascript:void\(0\)) [Bản án](javascript:void\(0\))
 [👉 _Quay về: Tra cứu văn bản (phiên bản cũ)_](https://luatvietnam.vn/van-ban/tim-van-ban.html)
-  * Tổng quan 
-  * Nội dung 
-  * VB gốc 
+  * Tổng quan
+  * Nội dung
+  * VB gốc
   * Tiếng Anh
-  * Hiệu lực 
-  * VB liên quan 
-  * Lược đồ 
-  * Nội dung hợp nhất 
+  * Hiệu lực
+  * VB liên quan
+  * Lược đồ
+  * Nội dung hợp nhất
 Tính năng này chỉ có tại LuatVietnam.vn. Nội dung hợp nhất tổng hợp lại tất cả các quy định còn hiệu lực của văn bản gốc và các văn bản sửa đổi, bổ sung, đính chính... trên một trang. Việc hợp nhất văn bản gốc và những văn bản, Thông tư, Nghị định hướng dẫn khác không làm thay đổi thứ tự điều khoản, nội dung.
 Khách hàng chỉ cần xem Nội dung hợp nhất là có thể nắm bắt toàn bộ quy định hiện hành đang áp dụng, cho dù văn bản gốc đã qua nhiều lần chỉnh sửa, bổ sung.
 [ =>> Xem hướng dẫn chi tiết cách sử dụng Nội dung hợp nhất ](https://www.youtube.com/watch?v=xQfPxq-Fkms "Xem hướng dẫn chi tiết cách sử dụng Nội dung hợp nhất")
-  * Tải về 
+  * Tải về
 
 
 Lưu
@@ -250,36 +250,36 @@ Theo dõi VB
 Đây là tiện ích dành cho tài khoản [ Tiêu chuẩn ](https://luatvietnam.vn/dich-vu.html) hoặc [ Nâng cao ](https://luatvietnam.vn/dich-vu.html). Vui lòng [Đăng nhập](https://luatvietnam.vn/lao-dong/cong-van-7851-bnv-tcbc-2026-huong-dan-thuc-hien-che-do-chinh-sach-theo-nghi-dinh-154-2025-nd-cp-441866-d6.html) tài khoản để xem chi tiết.
 Ghi chú
 Báo lỗi
-In 
-  * Báo lỗi 
+In
+  * Báo lỗi
   * [ Gửi liên kết tới Email ](https://luatvietnam.vn/lao-dong/cong-van-7851-bnv-tcbc-2026-huong-dan-thuc-hien-che-do-chinh-sach-theo-nghi-dinh-154-2025-nd-cp-441866-d6.html "Gửi liên kết tới Email")
   * Chia sẻ:  [ ](https://luatvietnam.vn/lao-dong/cong-van-7851-bnv-tcbc-2026-huong-dan-thuc-hien-che-do-chinh-sach-theo-nghi-dinh-154-2025-nd-cp-441866-d6.html "Chia sẻ qua Facebook") [ ](https://luatvietnam.vn/lao-dong/cong-van-7851-bnv-tcbc-2026-huong-dan-thuc-hien-che-do-chinh-sach-theo-nghi-dinh-154-2025-nd-cp-441866-d6.html "Chia sẻ qua X")
 
 
 # Công văn 7851/BNV-TCBC 2026 hướng dẫn thực hiện chế độ, chính sách theo Nghị định 154/2025/NĐ-CP
-Ngày cập nhật: Thứ Tư, 29/07/2026 08:56 (GMT+7)  
-| **Cơ quan ban hành:**  |  Bộ Nội vụ  |  **Số công báo:** Số công báo là mã số ấn phẩm được đăng chính thức trên ấn phẩm thông tin của Nhà nước. Mã số này do Chính phủ thống nhất quản lý.   |  _Đang cập nhật_  |  
-| --- | --- | --- | --- |  
-| **Số hiệu:**  | 7851/BNV-TCBC  | **Ngày đăng công báo:**  |  _Đang cập nhật_  |  
-| **Loại văn bản:**  |  Công văn  | **Người ký:**  |  Vũ Chiến Thắng  |  
-| **Trích yếu:**  |  Về việc hướng dẫn thực hiện chế độ, chính sách theo Nghị định 154/2025/NĐ-CP   |  
-|  **Ngày ban hành:** Ngày ban hành là ngày, tháng, năm văn bản được thông qua hoặc ký ban hành.   | 21/07/2026  |  **Ngày hết hiệu lực:** Ngày hết hiệu lực là ngày, tháng, năm văn bản chính thức không còn hiệu lực (áp dụng).   |  _Đang cập nhật_  |  
-|  **Áp dụng:** Ngày áp dụng là ngày, tháng, năm văn bản chính thức có hiệu lực (áp dụng).   |  Đã biết Tiện ích dành cho tài khoản [Tiêu chuẩn](https://luatvietnam.vn/dich-vu.html) hoặc [Nâng cao](https://luatvietnam.vn/dich-vu.html). Vui lòng [Đăng nhập](javascript:void\(0\)) tài khoản để xem chi tiết.   |  **Tình trạng hiệu lực:** Cho biết trạng thái hiệu lực của văn bản đang tra cứu: Chưa áp dụng, Còn hiệu lực, Hết hiệu lực, Hết hiệu lực 1 phần; Đã sửa đổi, Đính chính hay Không còn phù hợp,...   |  Đã biết Tiện ích dành cho tài khoản [Tiêu chuẩn](https://luatvietnam.vn/dich-vu.html) hoặc [Nâng cao](https://luatvietnam.vn/dich-vu.html). Vui lòng [Đăng nhập](javascript:void\(0\)) tài khoản để xem chi tiết.   |  
-| **Lĩnh vực:**  |  [Lao động-Tiền lương](https://luatvietnam.vn/lao-dong-tien-luong-7-f6.html "Lao động-Tiền lương") [Cán bộ-Công chức-Viên chức](https://luatvietnam.vn/can-bo-cong-chuc-vien-chuc-45-f6.html "Cán bộ-Công chức-Viên chức")  |   |   |  
+Ngày cập nhật: Thứ Tư, 29/07/2026 08:56 (GMT+7)
+| **Cơ quan ban hành:**  |  Bộ Nội vụ  |  **Số công báo:** Số công báo là mã số ấn phẩm được đăng chính thức trên ấn phẩm thông tin của Nhà nước. Mã số này do Chính phủ thống nhất quản lý.   |  _Đang cập nhật_  |
+| --- | --- | --- | --- |
+| **Số hiệu:**  | 7851/BNV-TCBC  | **Ngày đăng công báo:**  |  _Đang cập nhật_  |
+| **Loại văn bản:**  |  Công văn  | **Người ký:**  |  Vũ Chiến Thắng  |
+| **Trích yếu:**  |  Về việc hướng dẫn thực hiện chế độ, chính sách theo Nghị định 154/2025/NĐ-CP   |
+|  **Ngày ban hành:** Ngày ban hành là ngày, tháng, năm văn bản được thông qua hoặc ký ban hành.   | 21/07/2026  |  **Ngày hết hiệu lực:** Ngày hết hiệu lực là ngày, tháng, năm văn bản chính thức không còn hiệu lực (áp dụng).   |  _Đang cập nhật_  |
+|  **Áp dụng:** Ngày áp dụng là ngày, tháng, năm văn bản chính thức có hiệu lực (áp dụng).   |  Đã biết Tiện ích dành cho tài khoản [Tiêu chuẩn](https://luatvietnam.vn/dich-vu.html) hoặc [Nâng cao](https://luatvietnam.vn/dich-vu.html). Vui lòng [Đăng nhập](javascript:void\(0\)) tài khoản để xem chi tiết.   |  **Tình trạng hiệu lực:** Cho biết trạng thái hiệu lực của văn bản đang tra cứu: Chưa áp dụng, Còn hiệu lực, Hết hiệu lực, Hết hiệu lực 1 phần; Đã sửa đổi, Đính chính hay Không còn phù hợp,...   |  Đã biết Tiện ích dành cho tài khoản [Tiêu chuẩn](https://luatvietnam.vn/dich-vu.html) hoặc [Nâng cao](https://luatvietnam.vn/dich-vu.html). Vui lòng [Đăng nhập](javascript:void\(0\)) tài khoản để xem chi tiết.   |
+| **Lĩnh vực:**  |  [Lao động-Tiền lương](https://luatvietnam.vn/lao-dong-tien-luong-7-f6.html "Lao động-Tiền lương") [Cán bộ-Công chức-Viên chức](https://luatvietnam.vn/can-bo-cong-chuc-vien-chuc-45-f6.html "Cán bộ-Công chức-Viên chức")  |   |   |
 ## TÓM TẮT CÔNG VĂN 7851/BNV-TCBC
 _Nội dung tóm tắt đang được cập nhật, Quý khách vui lòng quay lại sau!_
 ## Tải Công văn 7851/BNV-TCBC
 Công văn 7851/BNV-TCBC PDF (Bản có dấu đỏ)
-Đây là tiện ích dành cho tài khoản thành viên. Vui lòng [Đăng nhập](javascript:void\(0\)) để xem chi tiết. Nếu chưa có tài khoản, [Đăng ký](javascript:void\(0\)) tại đây! 
+Đây là tiện ích dành cho tài khoản thành viên. Vui lòng [Đăng nhập](javascript:void\(0\)) để xem chi tiết. Nếu chưa có tài khoản, [Đăng ký](javascript:void\(0\)) tại đây!
 Công văn 7851/BNV-TCBC DOC (Bản Word)
-Đây là tiện ích dành cho tài khoản thành viên. Vui lòng [Đăng nhập](javascript:void\(0\)) để xem chi tiết. Nếu chưa có tài khoản, [Đăng ký](javascript:void\(0\)) tại đây! 
+Đây là tiện ích dành cho tài khoản thành viên. Vui lòng [Đăng nhập](javascript:void\(0\)) để xem chi tiết. Nếu chưa có tài khoản, [Đăng ký](javascript:void\(0\)) tại đây!
 Tình trạng hiệu lực: **Đã biết**
 Hiệu lực: Đã biết
-Tình trạng hiệu lực: Đã biết  
-|  **BỘ NỘI VỤ** __________  |  **CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM** **Độc lập - Tự do - Hạnh phúc** ___________________  |  
-| --- | --- |  
-|  Số: 7851/BNV-TCBC  
-V/v hướng dẫn thực hiện chế độ, chính sách theo Nghị định số 154/2025/NĐ-CP  |  _Hà Nội, ngày 21 tháng 7 năm 2026_  |  
+Tình trạng hiệu lực: Đã biết
+|  **BỘ NỘI VỤ** __________  |  **CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM** **Độc lập - Tự do - Hạnh phúc** ___________________  |
+| --- | --- |
+|  Số: 7851/BNV-TCBC
+V/v hướng dẫn thực hiện chế độ, chính sách theo Nghị định số 154/2025/NĐ-CP  |  _Hà Nội, ngày 21 tháng 7 năm 2026_  |
 Kính gửi: Ủy ban nhân dân tỉnh Lạng Sơn
 Trả lời Văn bản số 1588/SNV-TCBC ngày 23/6/2026 của Ủy ban nhân dân tỉnh Lạng Sơn và Văn bản số 2131/SNV-TCBC ngày 29/6/2026, Văn bản số 2180/SNV-XDCQ ngày 03/7/2026 của Sở Nội vụ tỉnh Lạng Sơn về việc hướng dẫn thực hiện chế độ, chính sách theo Nghị định số [154/2025/NĐ-CP](https://luatvietnam.vn/linh-vuc-khac/nghi-dinh-154-2025-nd-cp-quy-dinh-ve-tinh-gian-bien-che-402906-d1.html "154/2025/NĐ-CP") ngày 15/6/2025 của Chính phủ quy định về tinh giản biên chế (sau đây viết tắt là Nghị định số [154/2025/NĐ-CP](https://luatvietnam.vn/linh-vuc-khac/nghi-dinh-154-2025-nd-cp-quy-dinh-ve-tinh-gian-bien-che-402906-d1.html "154/2025/NĐ-CP")), Bộ Nội vụ có ý kiến như sau:
 1. Đối với nội dung liên quan đến đối tượng, chính sách nghỉ hưu trước tuổi theo Nghị định số [154/2025/NĐ-CP](https://luatvietnam.vn/linh-vuc-khac/nghi-dinh-154-2025-nd-cp-quy-dinh-ve-tinh-gian-bien-che-402906-d1.html "154/2025/NĐ-CP") đối với giáo viên mầm non và thời điểm nghỉ tinh giản biên chế khi [Luật Nhà giáo](https://luatvietnam.vn/giao-duc/luat-nha-giao-2025-so-73-2025-qh15-404090-d1.html "Luật Nhà giáo") có hiệu lực thi hành thì Bộ Nội vụ đã nêu rõ tại Văn bản số [5859/BNV-TCBC](https://luatvietnam.vn/hanh-chinh/cong-van-5859-bnv-tcbc-2026-thuc-hien-chinh-sach-tinh-gian-bien-che-giao-vien-mam-non-437258-d6.html "5859/BNV-TCBC") ngày 09/6/2026. Theo đó, đề nghị Ủy ban nhân dân tỉnh Lạng Sơn căn cứ vào hướng dẫn tại Văn bản số [5859/BNV-TCBC](https://luatvietnam.vn/hanh-chinh/cong-van-5859-bnv-tcbc-2026-thuc-hien-chinh-sach-tinh-gian-bien-che-giao-vien-mam-non-437258-d6.html "5859/BNV-TCBC") ngày 09/6/2026 của Bộ Nội vụ để thực hiện theo quy định.
@@ -295,26 +295,26 @@ Trong thời gian được bố trí vị trí việc làm khác mà cá nhân c
 4. Về áp dụng chính sách, chế độ đối với người làm việc tại Ban Chỉ huy quân sự cấp xã
 Ngày 26/6/2026, Chính phủ đã ban hành Nghị quyết số [167/NQ-CP](https://luatvietnam.vn/chinh-sach/nghi-quyet-167-nq-cp-2026-ap-dung-chinh-sach-tinh-gian-bien-che-tai-ban-chi-huy-quan-su-xa-phuong-438837-d1.html "167/NQ-CP") về áp dụng chính sách tinh giản biên chế đối với người làm việc tại Ban Chỉ huy quân sự xã, phường, đặc khu nghỉ việc do tổ chức lại Ban Chỉ huy quân sự xã, phường, đặc khu theo Nghị quyết số 66.12/2026/NQ-CP[1] ngày 26/01/2026 của Chính phủ. Theo đó, trường hợp là Phó Chỉ huy trưởng Ban Chỉ huy Quân sự cấp xã (trước sắp xếp đơn vị hành chính năm 2025) được bố trí hỗ trợ tại Ban Chỉ huy Quân sự cấp xã đến trước ngày 31/5/2026 nếu không trúng tuyển vào sĩ quan, quân nhân chuyên nghiệp tại Ban Chỉ huy Quân sự cấp xã thì thuộc đối tượng áp dụng tại Nghị quyết số [167/NQ-CP](https://luatvietnam.vn/chinh-sach/nghi-quyet-167-nq-cp-2026-ap-dung-chinh-sach-tinh-gian-bien-che-tai-ban-chi-huy-quan-su-xa-phuong-438837-d1.html "167/NQ-CP") nêu trên.
 Trên đây là ý kiến của Bộ Nội vụ về việc thực hiện chế độ, chính sách theo Nghị định số [154/2025/NĐ-CP](https://luatvietnam.vn/linh-vuc-khac/nghi-dinh-154-2025-nd-cp-quy-dinh-ve-tinh-gian-bien-che-402906-d1.html "154/2025/NĐ-CP") ngày 15/6/2025 của Chính phủ quy định về tinh giản biên chế, đề nghị Ủy ban nhân dân tỉnh Lạng Sơn thực hiện theo quy định./.
-Đang theo dõi  
-|  **_Nơi nhận:_**  
-- Như trên;  
-- Sở Nội vụ tỉnh Lạng Sơn (để thực hiện);  
-- Bộ trưởng (để báo cáo);  
-- Lưu: VT, TCBC.  |  **KT. BỘ TRƯỞNG** **THỨ TRƯỞNG**  
-  
-  
-  
-**Vũ Chiến Thắng**  |  
-| --- | --- |  
-  
-  
+Đang theo dõi
+|  **_Nơi nhận:_**
+- Như trên;
+- Sở Nội vụ tỉnh Lạng Sơn (để thực hiện);
+- Bộ trưởng (để báo cáo);
+- Lưu: VT, TCBC.  |  **KT. BỘ TRƯỞNG** **THỨ TRƯỞNG**
+
+
+
+**Vũ Chiến Thắng**  |
+| --- | --- |
+
+
 [1] Nghị quyết số 66.12/2026/NQ-CP ngày 26/01/2026 của Chính phủ về tổ chức và hoạt động của Ban Chỉ huy quân sự xã, phường, đặc khu trực thuộc Bộ Chỉ huy quân sự tỉnh, thành phố trực thuộc trung ương, Bộ Tư lệnh Thủ đô Hà Nội, Bộ Tư lệnh Thành phố Hồ Chí Minh.
 **Bạn chưa Đăng nhập thành viên.**
 Đây là tiện ích dành cho tài khoản thành viên. Vui lòng [Đăng nhập](javascript:void\(0\)) để xem chi tiết. Nếu chưa có tài khoản, vui lòng [Đăng ký tại đây](javascript:void\(0\))!
 Công văn 7851/BNV-TCBC của Bộ Nội vụ về việc hướng dẫn thực hiện chế độ, chính sách theo Nghị định 154/2025/NĐ-CP
 **Bạn chưa Đăng nhập thành viên.**
 Đây là tiện ích dành cho tài khoản thành viên. Vui lòng Đăng nhập để xem chi tiết. Nếu chưa có tài khoản, vui lòng Đăng ký tại đây!
-*** Lưu ý:** Để đọc được văn bản tải trên Luatvietnam.vn, bạn cần cài phần mềm đọc file DOC, DOCX và phần mềm đọc file PDF. 
+*** Lưu ý:** Để đọc được văn bản tải trên Luatvietnam.vn, bạn cần cài phần mềm đọc file DOC, DOCX và phần mềm đọc file PDF.
 [ Hải Yến ](https://luatvietnam.vn/author/hai-yen-luatvietnam-28.html "Hải Yến ")
 ## văn bản cùng lĩnh vực
 [ ![image](https://cdn2.luatvietnam.vn/images/file-text.svg) ](https://luatvietnam.vn/lao-dong/cong-van-7689-bnv-cvl-2026-khac-phuc-hau-qua-tai-nan-lao-dong-va-tang-cuong-an-toan-ve-sinh-lao-dong-440978-d6.html)
@@ -363,7 +363,7 @@ Công văn 7851/BNV-TCBC của Bộ Nội vụ về việc hướng dẫn thực
 
 
 [ Xem thêm ](https://luatvietnam.vn/bai-viet-lien-quan/cong-van-7851-bnv-tcbc-2026-441866.html)
-### Hỏi đáp pháp luật về Lao động-Tiền lương 
+### Hỏi đáp pháp luật về Lao động-Tiền lương
   * [Tự ý nghỉ phép khi chưa được Công ty duyệt: Có bị buộc thôi việc không?](https://luatvietnam.vn/luat-su-tu-van/tu-y-nghi-phep-khi-chua-duoc-cong-ty-duyet-co-bi-buoc-thoi-viec-khong-151296-faqs.html)
   * [Ngày đi đường được cộng khi nghỉ phép năm?](https://luatvietnam.vn/luat-su-tu-van/ngay-di-duong-duoc-cong-khi-nghi-phep-nam-151061-faqs.html)
   * [Ngày đi đường được cộng khi nghỉ phép năm?](https://luatvietnam.vn/luat-su-tu-van/ngay-di-duong-duoc-cong-khi-nghi-phep-nam-151060-faqs.html)
@@ -409,17 +409,17 @@ Công văn 7851/BNV-TCBC của Bộ Nội vụ về việc hướng dẫn thực
   * Hiệu lực
   * VB liên quan
   * Lược đồ
-  * Nội dung hợp nhất 
+  * Nội dung hợp nhất
 Tính năng này chỉ có tại LuatVietnam.vn. Nội dung hợp nhất tổng hợp lại tất cả các quy định còn hiệu lực của văn bản gốc và các văn bản sửa đổi, bổ sung, đính chính... trên một trang. Việc hợp nhất văn bản gốc và những văn bản, Thông tư, Nghị định hướng dẫn khác không làm thay đổi thứ tự điều khoản, nội dung.
 Khách hàng chỉ cần xem Nội dung hợp nhất là có thể nắm bắt toàn bộ quy định hiện hành đang áp dụng, cho dù văn bản gốc đã qua nhiều lần chỉnh sửa, bổ sung.
 [ =>> Xem hướng dẫn chi tiết cách sử dụng Nội dung hợp nhất ](https://www.youtube.com/watch?v=xQfPxq-Fkms "Xem hướng dẫn chi tiết cách sử dụng Nội dung hợp nhất")
-  * Tải về 
+  * Tải về
 
 
 Đây là tiện ích dành cho tài khoản [ Tiêu chuẩn ](https://luatvietnam.vn/dich-vu.html) hoặc [ Nâng cao ](https://luatvietnam.vn/dich-vu.html). Vui lòng [Đăng nhập](https://luatvietnam.vn/lao-dong/cong-van-7851-bnv-tcbc-2026-huong-dan-thuc-hien-che-do-chinh-sach-theo-nghi-dinh-154-2025-nd-cp-441866-d6.html) tài khoản để xem chi tiết.
 Đây là tiện ích dành cho tài khoản [ Tiêu chuẩn ](https://luatvietnam.vn/dich-vu.html) hoặc [ Nâng cao ](https://luatvietnam.vn/dich-vu.html). Vui lòng [Đăng nhập](https://luatvietnam.vn/lao-dong/cong-van-7851-bnv-tcbc-2026-huong-dan-thuc-hien-che-do-chinh-sach-theo-nghi-dinh-154-2025-nd-cp-441866-d6.html) tài khoản để xem chi tiết.
-In 
-  * Báo lỗi 
+In
+  * Báo lỗi
   * [ Gửi liên kết tới Email ](https://luatvietnam.vn/lao-dong/cong-van-7851-bnv-tcbc-2026-huong-dan-thuc-hien-che-do-chinh-sach-theo-nghi-dinh-154-2025-nd-cp-441866-d6.html "Gửi liên kết tới Email")
   * Chia sẻ:  [ ](https://luatvietnam.vn/lao-dong/cong-van-7851-bnv-tcbc-2026-huong-dan-thuc-hien-che-do-chinh-sach-theo-nghi-dinh-154-2025-nd-cp-441866-d6.html "Chia sẻ qua Facebook") [ ](https://luatvietnam.vn/lao-dong/cong-van-7851-bnv-tcbc-2026-huong-dan-thuc-hien-che-do-chinh-sach-theo-nghi-dinh-154-2025-nd-cp-441866-d6.html "Chia sẻ qua X")
 
@@ -454,13 +454,13 @@ Chính sách
 Giấy phép thiết lập trang Thông tin điện tử tổng hợp số: 692/GP-TTĐT cấp ngày 29/10/2010 bởi
 Sở TT-TT Hà Nội, thay thế giấy phép số: 322/GP - BC, ngày 26/07/2007, cấp bởi Bộ Thông tin và Truyền thông
 Chứng nhận bản quyền tác giả số 280/2009/QTG ngày 16/02/2009, cấp bởi Bộ Văn hoá - Thể thao - Du lịch
-Cơ quan chủ quản: Công ty Cổ phần Truyền thông Luật Việt Nam. Chịu trách nhiệm: Ông Trần Văn Trí 
+Cơ quan chủ quản: Công ty Cổ phần Truyền thông Luật Việt Nam. Chịu trách nhiệm: Ông Trần Văn Trí
 **Hỗ trợ về dịch vụ:** **0938 36 1919**
 **Hỗ trợ giải đáp pháp luật:** [**1900 6192**](tel:19006192)
 [ ![](https://cdn2.luatvietnam.vn/images/1-face.png) ](https://www.facebook.com/Luatvietnam.vn "Facebook LuatVietnam") [ ![](https://cdn2.luatvietnam.vn/images/2-zalo.png) ](https://zalo.me/0938361919 "Zalo LuatVietnam") [![](https://cdn2.luatvietnam.vn/images/3-you.png)](https://www.youtube.com/channel/UCJS4-HA9bdP8ZJ9o_mFRIFA/videos "Youtube LuatVietnam") [ ![](https://cdn2.luatvietnam.vn/images/4-tiktok.png) ](https://www.tiktok.com/@luatvietnam "TikTok LuatVietnam") [![](https://cdn2.luatvietnam.vn/images/5-tw.png) ](https://twitter.com/LuatVietNam_VN "Twitter LuatVietnam") [ ![linkedin](https://cdn2.luatvietnam.vn/images/7-linkedin.svg) ](https://www.linkedin.com/in/luatvietnam/ "Linkedin LuatVietnam")
-Tải ứng dụng luatvietnam 
+Tải ứng dụng luatvietnam
 ![qrcode](https://cdn2.luatvietnam.vn/images/qrcode-lvn.svg) [![googleplay](https://cdn2.luatvietnam.vn/images/google-play-badge.svg)](https://play.google.com/store/apps/details?id=com.iccom.luatvietnam) [![appstore](https://cdn2.luatvietnam.vn/images/appstore-badge.svg)](https://apps.apple.com/us/app/lu%E1%BA%ADt-vi%E1%BB%87t-nam/id1498874008)
-Quét mã QR code để cài đặt 
+Quét mã QR code để cài đặt
 Trụ sở: Tầng 3, Toà nhà IC, 82 Duy Tân, P.Cầu Giấy, TP.Hà Nội
 VPĐD: 648 Nguyễn Kiệm, Phường Đức Nhuận, TP. Hồ Chí Minh
 Điện thoại: 0938 36 1919 - Email: cskh@luatvietnam.vn
@@ -473,9 +473,9 @@ Liên hệ quảng cáo; quyền tác giả và các quyền liên quan: thuybt@
 
 
 CHÍNH SÁCH BẢO VỆ DỮ LIỆU CÁ NHÂN
-![Yêu cầu hỗ trợ](https://cdn2.luatvietnam.vn/images/support.svg)Yêu cầu hỗ trợ 
+![Yêu cầu hỗ trợ](https://cdn2.luatvietnam.vn/images/support.svg)Yêu cầu hỗ trợ
 Chú thích màu chỉ dẫn
-**Chú thích màu chỉ dẫn:**  
+**Chú thích màu chỉ dẫn:**
 _Các nội dung của VB này được VB khác thay đổi, hướng dẫn sẽ được làm nổi bật bằng các màu sắc:_
 Sửa đổi, bổ sung, đính chính
 Thay thế

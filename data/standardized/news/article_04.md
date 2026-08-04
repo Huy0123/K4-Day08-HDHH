@@ -6,7 +6,7 @@
 ---
 
 [ ![Luật Việt Nam](https://cdn2.luatvietnam.vn/images/logo.svg) ](https://luatvietnam.vn/)
-Danh mục 
+Danh mục
 |
 Tổng đài trực tuyến **19006192**
 |
@@ -65,7 +65,7 @@ Tổng đài trực tuyến **19006192**
     * [ Giá xăng hôm nay ](https://luatvietnam.vn/bang-gia-xang-dau-hom-nay.html "Giá xăng hôm nay")
 
 
-Tất cả chuyên mục Đóng 
+Tất cả chuyên mục Đóng
 [Văn bản](https://luatvietnam.vn/lao-dong/thong-tu-103-2026-tt-bqp-dieu-chinh-tro-cap-hang-thang-cho-quan-nhan-va-nguoi-lam-cong-tac-co-yeu-440815-d1.html "Văn bản")
   * [ Văn bản mới ](https://luatvietnam.vn/van-ban-moi.html "Văn bản mới")
   * [ Văn bản luật Việt Nam ](https://luatvietnam.vn/van-ban-luat-viet-nam.html "Văn bản luật Việt Nam")
@@ -230,22 +230,22 @@ Tìm kiếm
 [ Tìm nâng cao ](https://luatvietnam.vn/van-ban/tim-kiem.html?AdvancedSearch=1 "Tìm nâng cao")
 [Văn bản](javascript:void\(0\)) [Tin tức](javascript:void\(0\)) [Hỏi đáp](javascript:void\(0\)) [Bản án](javascript:void\(0\))
 [👉 _Quay về: Tra cứu văn bản (phiên bản cũ)_](https://luatvietnam.vn/van-ban/tim-van-ban.html)
-Mục lục 
-  * Tổng quan 
-  * Nội dung 
-  * VB gốc 
+Mục lục
+  * Tổng quan
+  * Nội dung
+  * VB gốc
   * Tiếng Anh
-  * Hiệu lực 
-  * VB liên quan 
-  * Lược đồ 
-  * Nội dung hợp nhất 
+  * Hiệu lực
+  * VB liên quan
+  * Lược đồ
+  * Nội dung hợp nhất
 Tính năng này chỉ có tại LuatVietnam.vn. Nội dung hợp nhất tổng hợp lại tất cả các quy định còn hiệu lực của văn bản gốc và các văn bản sửa đổi, bổ sung, đính chính... trên một trang. Việc hợp nhất văn bản gốc và những văn bản, Thông tư, Nghị định hướng dẫn khác không làm thay đổi thứ tự điều khoản, nội dung.
 Khách hàng chỉ cần xem Nội dung hợp nhất là có thể nắm bắt toàn bộ quy định hiện hành đang áp dụng, cho dù văn bản gốc đã qua nhiều lần chỉnh sửa, bổ sung.
 [ =>> Xem hướng dẫn chi tiết cách sử dụng Nội dung hợp nhất ](https://www.youtube.com/watch?v=xQfPxq-Fkms "Xem hướng dẫn chi tiết cách sử dụng Nội dung hợp nhất")
-  * Tải về 
+  * Tải về
 
 
-Mục lục 
+Mục lục
 So sánh VB
 Đây là tiện ích dành cho tài khoản [ Tiêu chuẩn ](https://luatvietnam.vn/dich-vu.html) hoặc [ Nâng cao ](https://luatvietnam.vn/dich-vu.html). Vui lòng [Đăng nhập](https://luatvietnam.vn/lao-dong/thong-tu-103-2026-tt-bqp-dieu-chinh-tro-cap-hang-thang-cho-quan-nhan-va-nguoi-lam-cong-tac-co-yeu-440815-d1.html) tài khoản để xem chi tiết.
 Lưu
@@ -254,23 +254,23 @@ Theo dõi VB
 Đây là tiện ích dành cho tài khoản [ Tiêu chuẩn ](https://luatvietnam.vn/dich-vu.html) hoặc [ Nâng cao ](https://luatvietnam.vn/dich-vu.html). Vui lòng [Đăng nhập](https://luatvietnam.vn/lao-dong/thong-tu-103-2026-tt-bqp-dieu-chinh-tro-cap-hang-thang-cho-quan-nhan-va-nguoi-lam-cong-tac-co-yeu-440815-d1.html) tài khoản để xem chi tiết.
 Ghi chú
 Báo lỗi
-In 
-  * So sánh VB 
-  * Báo lỗi 
+In
+  * So sánh VB
+  * Báo lỗi
   * [ Gửi liên kết tới Email ](https://luatvietnam.vn/lao-dong/thong-tu-103-2026-tt-bqp-dieu-chinh-tro-cap-hang-thang-cho-quan-nhan-va-nguoi-lam-cong-tac-co-yeu-440815-d1.html "Gửi liên kết tới Email")
   * Chia sẻ:  [ ](https://luatvietnam.vn/lao-dong/thong-tu-103-2026-tt-bqp-dieu-chinh-tro-cap-hang-thang-cho-quan-nhan-va-nguoi-lam-cong-tac-co-yeu-440815-d1.html "Chia sẻ qua Facebook") [ ](https://luatvietnam.vn/lao-dong/thong-tu-103-2026-tt-bqp-dieu-chinh-tro-cap-hang-thang-cho-quan-nhan-va-nguoi-lam-cong-tac-co-yeu-440815-d1.html "Chia sẻ qua X")
 
 
 # Thông tư 103/2026/TT-BQP điều chỉnh trợ cấp hằng tháng cho quân nhân và cơ yếu
-Ngày cập nhật: Thứ Hai, 20/07/2026 09:07 (GMT+7)  
-| **Cơ quan ban hành:**  |  Bộ Quốc phòng  |  **Số công báo:** Số công báo là mã số ấn phẩm được đăng chính thức trên ấn phẩm thông tin của Nhà nước. Mã số này do Chính phủ thống nhất quản lý.   |  Đã biết Tiện ích dành cho tài khoản [Tiêu chuẩn](https://luatvietnam.vn/dich-vu.html) hoặc [Nâng cao](https://luatvietnam.vn/dich-vu.html). Vui lòng [Đăng nhập](javascript:void\(0\)) tài khoản để xem chi tiết.   |  
-| --- | --- | --- | --- |  
-| **Số hiệu:**  | 103/2026/TT-BQP  | **Ngày đăng công báo:**  |  Đã biết Tiện ích dành cho tài khoản [Tiêu chuẩn](https://luatvietnam.vn/dich-vu.html) hoặc [Nâng cao](https://luatvietnam.vn/dich-vu.html). Vui lòng [Đăng nhập](javascript:void\(0\)) tài khoản để xem chi tiết.   |  
-| **Loại văn bản:**  |  Thông tư  | **Người ký:**  |  Nguyễn Quang Ngọc  |  
-| **Trích yếu:**  |  Quy định điều chỉnh trợ cấp hằng tháng đối với quân nhân, người làm công tác cơ yếu hưởng lương như đối với quân nhân đã phục viên, xuất ngũ, thôi việc   |  
-|  **Ngày ban hành:** Ngày ban hành là ngày, tháng, năm văn bản được thông qua hoặc ký ban hành.   | 17/07/2026  |  **Ngày hết hiệu lực:** Ngày hết hiệu lực là ngày, tháng, năm văn bản chính thức không còn hiệu lực (áp dụng).   |  _Đang cập nhật_  |  
-|  **Áp dụng:** Ngày áp dụng là ngày, tháng, năm văn bản chính thức có hiệu lực (áp dụng).   |  Đã biết Tiện ích dành cho tài khoản [Tiêu chuẩn](https://luatvietnam.vn/dich-vu.html) hoặc [Nâng cao](https://luatvietnam.vn/dich-vu.html). Vui lòng [Đăng nhập](javascript:void\(0\)) tài khoản để xem chi tiết.   |  **Tình trạng hiệu lực:** Cho biết trạng thái hiệu lực của văn bản đang tra cứu: Chưa áp dụng, Còn hiệu lực, Hết hiệu lực, Hết hiệu lực 1 phần; Đã sửa đổi, Đính chính hay Không còn phù hợp,...   |  Đã biết Tiện ích dành cho tài khoản [Tiêu chuẩn](https://luatvietnam.vn/dich-vu.html) hoặc [Nâng cao](https://luatvietnam.vn/dich-vu.html). Vui lòng [Đăng nhập](javascript:void\(0\)) tài khoản để xem chi tiết.   |  
-| **Lĩnh vực:**  |  [Lao động-Tiền lương](https://luatvietnam.vn/lao-dong-tien-luong-7-f1.html "Lao động-Tiền lương") [Cán bộ-Công chức-Viên chức](https://luatvietnam.vn/can-bo-cong-chuc-vien-chuc-45-f1.html "Cán bộ-Công chức-Viên chức")  |   |   |  
+Ngày cập nhật: Thứ Hai, 20/07/2026 09:07 (GMT+7)
+| **Cơ quan ban hành:**  |  Bộ Quốc phòng  |  **Số công báo:** Số công báo là mã số ấn phẩm được đăng chính thức trên ấn phẩm thông tin của Nhà nước. Mã số này do Chính phủ thống nhất quản lý.   |  Đã biết Tiện ích dành cho tài khoản [Tiêu chuẩn](https://luatvietnam.vn/dich-vu.html) hoặc [Nâng cao](https://luatvietnam.vn/dich-vu.html). Vui lòng [Đăng nhập](javascript:void\(0\)) tài khoản để xem chi tiết.   |
+| --- | --- | --- | --- |
+| **Số hiệu:**  | 103/2026/TT-BQP  | **Ngày đăng công báo:**  |  Đã biết Tiện ích dành cho tài khoản [Tiêu chuẩn](https://luatvietnam.vn/dich-vu.html) hoặc [Nâng cao](https://luatvietnam.vn/dich-vu.html). Vui lòng [Đăng nhập](javascript:void\(0\)) tài khoản để xem chi tiết.   |
+| **Loại văn bản:**  |  Thông tư  | **Người ký:**  |  Nguyễn Quang Ngọc  |
+| **Trích yếu:**  |  Quy định điều chỉnh trợ cấp hằng tháng đối với quân nhân, người làm công tác cơ yếu hưởng lương như đối với quân nhân đã phục viên, xuất ngũ, thôi việc   |
+|  **Ngày ban hành:** Ngày ban hành là ngày, tháng, năm văn bản được thông qua hoặc ký ban hành.   | 17/07/2026  |  **Ngày hết hiệu lực:** Ngày hết hiệu lực là ngày, tháng, năm văn bản chính thức không còn hiệu lực (áp dụng).   |  _Đang cập nhật_  |
+|  **Áp dụng:** Ngày áp dụng là ngày, tháng, năm văn bản chính thức có hiệu lực (áp dụng).   |  Đã biết Tiện ích dành cho tài khoản [Tiêu chuẩn](https://luatvietnam.vn/dich-vu.html) hoặc [Nâng cao](https://luatvietnam.vn/dich-vu.html). Vui lòng [Đăng nhập](javascript:void\(0\)) tài khoản để xem chi tiết.   |  **Tình trạng hiệu lực:** Cho biết trạng thái hiệu lực của văn bản đang tra cứu: Chưa áp dụng, Còn hiệu lực, Hết hiệu lực, Hết hiệu lực 1 phần; Đã sửa đổi, Đính chính hay Không còn phù hợp,...   |  Đã biết Tiện ích dành cho tài khoản [Tiêu chuẩn](https://luatvietnam.vn/dich-vu.html) hoặc [Nâng cao](https://luatvietnam.vn/dich-vu.html). Vui lòng [Đăng nhập](javascript:void\(0\)) tài khoản để xem chi tiết.   |
+| **Lĩnh vực:**  |  [Lao động-Tiền lương](https://luatvietnam.vn/lao-dong-tien-luong-7-f1.html "Lao động-Tiền lương") [Cán bộ-Công chức-Viên chức](https://luatvietnam.vn/can-bo-cong-chuc-vien-chuc-45-f1.html "Cán bộ-Công chức-Viên chức")  |   |   |
 ## TÓM TẮT THÔNG TƯ 103/2026/TT-BQP
 **Điều chỉnh trợ cấp hằng tháng cho quân nhân và người làm công tác cơ yếu**
 Ngày 17/07/2026, Bộ Quốc phòng đã ban hành [Thông tư 103/2026/TT-BQP](https://luatvietnam.vn/lao-dong/thong-tu-103-2026-tt-bqp-dieu-chinh-tro-cap-hang-thang-cho-quan-nhan-va-nguoi-lam-cong-tac-co-yeu-440815-d1.html) quy định về việc điều chỉnh trợ cấp hằng tháng cho quân nhân và người làm công tác cơ yếu hưởng lương như quân nhân đã phục viên, xuất ngũ, thôi việc. Thông tư này có hiệu lực từ ngày 30/08/2026 và các quy định được thực hiện từ ngày 01/07/2026.
@@ -290,20 +290,20 @@ Thông tư này thay thế [Thông tư số 53/2024/TT-BQP](https://luatvietnam.
 Xem chi tiết [Thông tư 103/2026/TT-BQP](https://luatvietnam.vn/lao-dong/thong-tu-103-2026-tt-bqp-dieu-chinh-tro-cap-hang-thang-cho-quan-nhan-va-nguoi-lam-cong-tac-co-yeu-440815-d1.html "Xem chi tiết Thông tư 103/2026/TT-BQP") có hiệu lực kể từ ngày 30/08/2026
 ## Tải Thông tư 103/2026/TT-BQP
 Thông tư 103/2026/TT-BQP PDF (Bản có dấu đỏ)
-Đây là tiện ích dành cho tài khoản thành viên. Vui lòng [Đăng nhập](javascript:void\(0\)) để xem chi tiết. Nếu chưa có tài khoản, [Đăng ký](javascript:void\(0\)) tại đây! 
+Đây là tiện ích dành cho tài khoản thành viên. Vui lòng [Đăng nhập](javascript:void\(0\)) để xem chi tiết. Nếu chưa có tài khoản, [Đăng ký](javascript:void\(0\)) tại đây!
 Thông tư 103/2026/TT-BQP DOC (Bản Word)
-Đây là tiện ích dành cho tài khoản thành viên. Vui lòng [Đăng nhập](javascript:void\(0\)) để xem chi tiết. Nếu chưa có tài khoản, [Đăng ký](javascript:void\(0\)) tại đây! 
+Đây là tiện ích dành cho tài khoản thành viên. Vui lòng [Đăng nhập](javascript:void\(0\)) để xem chi tiết. Nếu chưa có tài khoản, [Đăng ký](javascript:void\(0\)) tại đây!
 Tình trạng hiệu lực: **Đã biết**
 Hiệu lực: Đã biết
-Tình trạng hiệu lực: Đã biết  
-|  **BỘ QUỐC PHÒNG  
-**__________ Số: 103/2026/TT-BQP  |  **CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  
-Độc lập - Tự do - Hạnh phúc   
-**______________________ _Hà Nội, ngày 17 tháng 7 năm 2026_  |  
-| --- | --- |  
+Tình trạng hiệu lực: Đã biết
+|  **BỘ QUỐC PHÒNG
+**__________ Số: 103/2026/TT-BQP  |  **CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+**______________________ _Hà Nội, ngày 17 tháng 7 năm 2026_  |
+| --- | --- |
 **THÔNG TƯ**
-**Quy định điều chỉnh trợ cấp hằng tháng đối với quân nhân,**  
-**người làm công tác cơ yếu hưởng lương như đối với quân nhân**  
+**Quy định điều chỉnh trợ cấp hằng tháng đối với quân nhân,**
+**người làm công tác cơ yếu hưởng lương như đối với quân nhân**
 **đã phục viên, xuất ngũ, thôi việc**
 _Căn cứ Nghị định số 01/2022/NĐ-CP của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Quốc phòng, được sửa đổi, bổ sung bởi Nghị định số 03/2025/NĐ-CP của Chính phủ;_
 _Căn cứ Nghị định số[162/2026/NĐ-CP](https://luatvietnam.vn/lao-dong/nghi-dinh-162-2026-nd-cp-dieu-chinh-luong-huu-tro-cap-bhxh-va-tro-cap-hang-thang-434783-d1.html "162/2026/NĐ-CP") của Chính phủ điều chỉnh lương hưu, trợ cấp bảo hiểm xã hội và trợ cấp hằng tháng;_
@@ -325,9 +325,9 @@ năm 2008 của Thủ tướng Chính phủ về thực hiện chế độ đố
 Đang theo dõi
 **Điều 3. Cách tính và mức điều chỉnh**
 Đang theo dõi
-1. Điều chỉnh tăng thêm 8% trên mức trợ cấp hằng tháng của tháng 6 năm 2026 đối với đối tượng quy định tại khoản 1 và khoản 2 Điều 2 Thông tư này, theo công thức sau:  
-|  Mức trợ cấp hằng tháng được hưởng từ tháng 7/2026  |  =  |  Mức trợ cấp hằng tháng được hưởng tại thời điểm tháng 6/2026  |  x 1,08  |  
-| --- | --- | --- | --- |  
+1. Điều chỉnh tăng thêm 8% trên mức trợ cấp hằng tháng của tháng 6 năm 2026 đối với đối tượng quy định tại khoản 1 và khoản 2 Điều 2 Thông tư này, theo công thức sau:
+|  Mức trợ cấp hằng tháng được hưởng từ tháng 7/2026  |  =  |  Mức trợ cấp hằng tháng được hưởng tại thời điểm tháng 6/2026  |  x 1,08  |
+| --- | --- | --- | --- |
 Đang theo dõi
 2. Mức trợ cấp hàng tháng đối với các đối tượng quy định tại khoản 1 và khoản 2 Điều 2 Thông tư này sau khi đã được điều chỉnh tăng thêm, cụ thể như sau:
 Đang theo dõi
@@ -337,9 +337,9 @@ b) Từ đủ 16 năm đến dưới 17 năm, mức trợ cấp bằng 2.966.000
 Đang theo dõi
 c) Từ đủ 17 năm đến dưới 18 năm, mức trợ cấp bằng 3.097.000 đồng/tháng;
 Đang theo dõi
-d) Từ đủ 18 năm đến dưới 19 năm, mức trợ cấp bằng 3.227.000 đồng/tháng; 
+d) Từ đủ 18 năm đến dưới 19 năm, mức trợ cấp bằng 3.227.000 đồng/tháng;
 Đang theo dõi
-đ) Từ đủ 19 năm đến dưới 20 năm, mức trợ cấp bằng 3.353.000 đồng/tháng. 
+đ) Từ đủ 19 năm đến dưới 20 năm, mức trợ cấp bằng 3.353.000 đồng/tháng.
 Đang theo dõi
 **Điều 4. Kinh phí thực hiện**
 Kinh phí thực hiện điều chỉnh trợ cấp hằng tháng đối với các đối tượng quy định tại Thông tư này do ngân sách trung ương bổ sung có mục tiêu cho ngân sách địa phương và giao Ủy ban nhân dân cấp tỉnh thực hiện.
@@ -362,23 +362,23 @@ b) Chỉ đạo các quân khu và Bộ Tư lệnh Thủ đô Hà Nội thực h
 2. Thông tư số [53/2024/TT-BQP](https://luatvietnam.vn/lao-dong/thong-tu-53-2024-tt-bqp-dieu-chinh-tro-cap-hang-thang-quan-nhan-da-phuc-vien-xuat-ngu-366231-d1.html "53/2024/TT-BQP") ngày 17 tháng 9 năm 2024 của Bộ trưởng Bộ Quốc phòng quy định điều chỉnh trợ cấp hàng tháng đối với quân nhân, người làm công tác cơ yếu hưởng lương như đối với quân nhân đã phục viên, xuất ngũ, thôi việc; gạch đầu dòng thứ hai điểm a và gạch đầu dòng thứ hai điểm b khoản 2 Điều 19 Thông tư số [103/2025/TT-BQP](https://luatvietnam.vn/chinh-sach/thong-tu-103-2025-tt-bqp-sua-doi-bo-sung-chinh-sach-bo-quoc-phong-413143-d1.html "103/2025/TT-BQP") ngày 26 tháng 9 năm 2025 của Bộ trưởng Bộ Quốc phòng sửa đổi, bổ sung một số điều của các Thông tư liên tịch, Thông tư, Quyết định của Bộ trưởng Bộ Quốc phòng về lĩnh vực chính sách hết hiệu lực kể từ ngày Thông tư này có hiệu lực thi hành.
 Đang theo dõi
 **Điều 7. Điều khoản chuyển tiếp**
-Tiếp tục thực hiện cách tính và mức điều chỉnh trợ cấp hằng tháng đối với quân nhân, người làm công tác cơ yếu hưởng lương như đối với quân nhân đã phục viên, xuất ngũ, thôi việc theo quy định tại các Thông tư liên tịch hoặc Thông tư của Bộ trưởng Bộ Quốc phòng ban hành trước ngày Thông tư này có hiệu lực thi hành đối với các trường hợp được cấp có thẩm quyền quyết định hưởng trợ cấp hàng tháng theo Quyết định số [142/2008/QĐ-TTg](https://luatvietnam.vn/chinh-sach/quyet-dinh-142-2008-qd-ttg-thu-tuong-chinh-phu-38684-d1.html "142/2008/QĐ-TTg"), Quyết định số [62/2011/QĐ-TTg](https://luatvietnam.vn/chinh-sach/quyet-dinh-62-2011-qd-ttg-thu-tuong-chinh-phu-65947-d1.html "62/2011/QĐ-TTg") kể từ ngày Thông tư này có hiệu lực, bảo đảm thống nhất về đối tượng thụ hưởng, mức trợ cấp hằng tháng đối với đối tượng tương ứng với thời gian có hiệu lực của từng văn bản. 
+Tiếp tục thực hiện cách tính và mức điều chỉnh trợ cấp hằng tháng đối với quân nhân, người làm công tác cơ yếu hưởng lương như đối với quân nhân đã phục viên, xuất ngũ, thôi việc theo quy định tại các Thông tư liên tịch hoặc Thông tư của Bộ trưởng Bộ Quốc phòng ban hành trước ngày Thông tư này có hiệu lực thi hành đối với các trường hợp được cấp có thẩm quyền quyết định hưởng trợ cấp hàng tháng theo Quyết định số [142/2008/QĐ-TTg](https://luatvietnam.vn/chinh-sach/quyet-dinh-142-2008-qd-ttg-thu-tuong-chinh-phu-38684-d1.html "142/2008/QĐ-TTg"), Quyết định số [62/2011/QĐ-TTg](https://luatvietnam.vn/chinh-sach/quyet-dinh-62-2011-qd-ttg-thu-tuong-chinh-phu-65947-d1.html "62/2011/QĐ-TTg") kể từ ngày Thông tư này có hiệu lực, bảo đảm thống nhất về đối tượng thụ hưởng, mức trợ cấp hằng tháng đối với đối tượng tương ứng với thời gian có hiệu lực của từng văn bản.
 Đang theo dõi
 **Điều 8. Trách nhiệm thi hành**
 Đang theo dõi
 1. Thủ trưởng các cơ quan, đơn vị, tổ chức và cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này.
 Đang theo dõi
 2. Quá trình thực hiện, nếu có vướng mắc, các cơ quan, đơn vị và địa phương kịp thời phản ánh về Bộ Quốc phòng (qua Cục Chính sách - Xã hội/Tổng cục Chính trị) để tổng hợp, báo cáo Thủ trưởng Bộ Quốc phòng xem xét, quyết định./.
-Đang theo dõi  
-|  **_Nơi nhận:_**  
-- Thủ tướng Chính phủ (để báo cáo); - Lãnh đạo Bộ Quốc phòng; - Bộ Tổng Tham mưu; - Tổng cục Chính trị; - Văn phòng Chính phủ; - Các Bộ: Tư pháp, Tài chính, Nội vụ; - Ban Cơ yếu Chính phủ; - Cục Kiểm tra văn bản và TCTHPL/BTP; - Các Quân khu và BTL Thủ đô Hà Nội; - Các Cục: Pháp chế, Tài chính, Quân lực, Cán bộ, Cơ yếu, Chính sách - Xã hội; - UBND các tỉnh, thành phố; - Công báo; - Cổng: TTĐT BQP, TTĐT ngành CSQĐ; - Lưu: VT, NCTH, T64.  |  **KT. BỘ TRƯỞNG** **THỨ TRƯỞNG** **Thượng tướng Nguyễn Quang Ngọc**  |  
-| --- | --- |  
+Đang theo dõi
+|  **_Nơi nhận:_**
+- Thủ tướng Chính phủ (để báo cáo); - Lãnh đạo Bộ Quốc phòng; - Bộ Tổng Tham mưu; - Tổng cục Chính trị; - Văn phòng Chính phủ; - Các Bộ: Tư pháp, Tài chính, Nội vụ; - Ban Cơ yếu Chính phủ; - Cục Kiểm tra văn bản và TCTHPL/BTP; - Các Quân khu và BTL Thủ đô Hà Nội; - Các Cục: Pháp chế, Tài chính, Quân lực, Cán bộ, Cơ yếu, Chính sách - Xã hội; - UBND các tỉnh, thành phố; - Công báo; - Cổng: TTĐT BQP, TTĐT ngành CSQĐ; - Lưu: VT, NCTH, T64.  |  **KT. BỘ TRƯỞNG** **THỨ TRƯỞNG** **Thượng tướng Nguyễn Quang Ngọc**  |
+| --- | --- |
 **Bạn chưa Đăng nhập thành viên.**
 Đây là tiện ích dành cho tài khoản thành viên. Vui lòng [Đăng nhập](javascript:void\(0\)) để xem chi tiết. Nếu chưa có tài khoản, vui lòng [Đăng ký tại đây](javascript:void\(0\))!
 Thông tư 103/2026/TT-BQP của Bộ Quốc phòng quy định điều chỉnh trợ cấp hằng tháng đối với quân nhân, người làm công tác cơ yếu hưởng lương như đối với quân nhân đã phục viên, xuất ngũ, thôi việc
 **Bạn chưa Đăng nhập thành viên.**
 Đây là tiện ích dành cho tài khoản thành viên. Vui lòng Đăng nhập để xem chi tiết. Nếu chưa có tài khoản, vui lòng Đăng ký tại đây!
-*** Lưu ý:** Để đọc được văn bản tải trên Luatvietnam.vn, bạn cần cài phần mềm đọc file DOC, DOCX và phần mềm đọc file PDF. 
+*** Lưu ý:** Để đọc được văn bản tải trên Luatvietnam.vn, bạn cần cài phần mềm đọc file DOC, DOCX và phần mềm đọc file PDF.
 [ Hải Yến ](https://luatvietnam.vn/author/hai-yen-luatvietnam-28.html "Hải Yến ")
 Từ khóa liên quan: [ 53/2024/TT-BQP ](https://luatvietnam.vn/lao-dong/thong-tu-53-2024-tt-bqp-dieu-chinh-tro-cap-hang-thang-quan-nhan-da-phuc-vien-xuat-ngu-366231-d1.html "53/2024/TT-BQP") , [ Thông tư 103/2025/TT-BQP ](https://luatvietnam.vn/chinh-sach/thong-tu-103-2025-tt-bqp-sua-doi-bo-sung-chinh-sach-bo-quoc-phong-413143-d1.html "Thông tư 103/2025/TT-BQP") , [ Nghị định 162/2026/NĐ-CP ](https://luatvietnam.vn/lao-dong/nghi-dinh-162-2026-nd-cp-dieu-chinh-luong-huu-tro-cap-bhxh-va-tro-cap-hang-thang-434783-d1.html "Nghị định 162/2026/NĐ-CP")
 ## văn bản cùng lĩnh vực
@@ -428,7 +428,7 @@ Từ khóa liên quan: [ 53/2024/TT-BQP ](https://luatvietnam.vn/lao-dong/thong-
 
 
 [ Xem thêm ](https://luatvietnam.vn/bai-viet-lien-quan/thong-tu-103-2026-tt-bqp-440815.html)
-### Hỏi đáp pháp luật về Lao động-Tiền lương 
+### Hỏi đáp pháp luật về Lao động-Tiền lương
   * [Tự ý nghỉ phép khi chưa được Công ty duyệt: Có bị buộc thôi việc không?](https://luatvietnam.vn/luat-su-tu-van/tu-y-nghi-phep-khi-chua-duoc-cong-ty-duyet-co-bi-buoc-thoi-viec-khong-151296-faqs.html)
   * [Ngày đi đường được cộng khi nghỉ phép năm?](https://luatvietnam.vn/luat-su-tu-van/ngay-di-duong-duoc-cong-khi-nghi-phep-nam-151061-faqs.html)
   * [Ngày đi đường được cộng khi nghỉ phép năm?](https://luatvietnam.vn/luat-su-tu-van/ngay-di-duong-duoc-cong-khi-nghi-phep-nam-151060-faqs.html)
@@ -467,7 +467,7 @@ Từ khóa liên quan: [ 53/2024/TT-BQP ](https://luatvietnam.vn/lao-dong/thong-
 
 
 [ Xem thêm ](https://luatvietnam.vn/tin-van-ban-moi-c186-article.html)
-Mục lục 
+Mục lục
   * Tổng quan
   * Nội dung
   * VB gốc
@@ -475,20 +475,20 @@ Mục lục
   * Hiệu lực
   * VB liên quan
   * Lược đồ
-  * Nội dung hợp nhất 
+  * Nội dung hợp nhất
 Tính năng này chỉ có tại LuatVietnam.vn. Nội dung hợp nhất tổng hợp lại tất cả các quy định còn hiệu lực của văn bản gốc và các văn bản sửa đổi, bổ sung, đính chính... trên một trang. Việc hợp nhất văn bản gốc và những văn bản, Thông tư, Nghị định hướng dẫn khác không làm thay đổi thứ tự điều khoản, nội dung.
 Khách hàng chỉ cần xem Nội dung hợp nhất là có thể nắm bắt toàn bộ quy định hiện hành đang áp dụng, cho dù văn bản gốc đã qua nhiều lần chỉnh sửa, bổ sung.
 [ =>> Xem hướng dẫn chi tiết cách sử dụng Nội dung hợp nhất ](https://www.youtube.com/watch?v=xQfPxq-Fkms "Xem hướng dẫn chi tiết cách sử dụng Nội dung hợp nhất")
-  * Tải về 
+  * Tải về
 
 
 So sánh VB
 Đây là tiện ích dành cho tài khoản [ Tiêu chuẩn ](https://luatvietnam.vn/dich-vu.html) hoặc [ Nâng cao ](https://luatvietnam.vn/dich-vu.html). Vui lòng [Đăng nhập](https://luatvietnam.vn/lao-dong/thong-tu-103-2026-tt-bqp-dieu-chinh-tro-cap-hang-thang-cho-quan-nhan-va-nguoi-lam-cong-tac-co-yeu-440815-d1.html) tài khoản để xem chi tiết.
 Đây là tiện ích dành cho tài khoản [ Tiêu chuẩn ](https://luatvietnam.vn/dich-vu.html) hoặc [ Nâng cao ](https://luatvietnam.vn/dich-vu.html). Vui lòng [Đăng nhập](https://luatvietnam.vn/lao-dong/thong-tu-103-2026-tt-bqp-dieu-chinh-tro-cap-hang-thang-cho-quan-nhan-va-nguoi-lam-cong-tac-co-yeu-440815-d1.html) tài khoản để xem chi tiết.
 Đây là tiện ích dành cho tài khoản [ Tiêu chuẩn ](https://luatvietnam.vn/dich-vu.html) hoặc [ Nâng cao ](https://luatvietnam.vn/dich-vu.html). Vui lòng [Đăng nhập](https://luatvietnam.vn/lao-dong/thong-tu-103-2026-tt-bqp-dieu-chinh-tro-cap-hang-thang-cho-quan-nhan-va-nguoi-lam-cong-tac-co-yeu-440815-d1.html) tài khoản để xem chi tiết.
-In 
-  * So sánh VB 
-  * Báo lỗi 
+In
+  * So sánh VB
+  * Báo lỗi
   * [ Gửi liên kết tới Email ](https://luatvietnam.vn/lao-dong/thong-tu-103-2026-tt-bqp-dieu-chinh-tro-cap-hang-thang-cho-quan-nhan-va-nguoi-lam-cong-tac-co-yeu-440815-d1.html "Gửi liên kết tới Email")
   * Chia sẻ:  [ ](https://luatvietnam.vn/lao-dong/thong-tu-103-2026-tt-bqp-dieu-chinh-tro-cap-hang-thang-cho-quan-nhan-va-nguoi-lam-cong-tac-co-yeu-440815-d1.html "Chia sẻ qua Facebook") [ ](https://luatvietnam.vn/lao-dong/thong-tu-103-2026-tt-bqp-dieu-chinh-tro-cap-hang-thang-cho-quan-nhan-va-nguoi-lam-cong-tac-co-yeu-440815-d1.html "Chia sẻ qua X")
 
@@ -523,13 +523,13 @@ Chính sách
 Giấy phép thiết lập trang Thông tin điện tử tổng hợp số: 692/GP-TTĐT cấp ngày 29/10/2010 bởi
 Sở TT-TT Hà Nội, thay thế giấy phép số: 322/GP - BC, ngày 26/07/2007, cấp bởi Bộ Thông tin và Truyền thông
 Chứng nhận bản quyền tác giả số 280/2009/QTG ngày 16/02/2009, cấp bởi Bộ Văn hoá - Thể thao - Du lịch
-Cơ quan chủ quản: Công ty Cổ phần Truyền thông Luật Việt Nam. Chịu trách nhiệm: Ông Trần Văn Trí 
+Cơ quan chủ quản: Công ty Cổ phần Truyền thông Luật Việt Nam. Chịu trách nhiệm: Ông Trần Văn Trí
 **Hỗ trợ về dịch vụ:** **0938 36 1919**
 **Hỗ trợ giải đáp pháp luật:** [**1900 6192**](tel:19006192)
 [ ![](https://cdn2.luatvietnam.vn/images/1-face.png) ](https://www.facebook.com/Luatvietnam.vn "Facebook LuatVietnam") [ ![](https://cdn2.luatvietnam.vn/images/2-zalo.png) ](https://zalo.me/0938361919 "Zalo LuatVietnam") [![](https://cdn2.luatvietnam.vn/images/3-you.png)](https://www.youtube.com/channel/UCJS4-HA9bdP8ZJ9o_mFRIFA/videos "Youtube LuatVietnam") [ ![](https://cdn2.luatvietnam.vn/images/4-tiktok.png) ](https://www.tiktok.com/@luatvietnam "TikTok LuatVietnam") [![](https://cdn2.luatvietnam.vn/images/5-tw.png) ](https://twitter.com/LuatVietNam_VN "Twitter LuatVietnam") [ ![linkedin](https://cdn2.luatvietnam.vn/images/7-linkedin.svg) ](https://www.linkedin.com/in/luatvietnam/ "Linkedin LuatVietnam")
-Tải ứng dụng luatvietnam 
+Tải ứng dụng luatvietnam
 ![qrcode](https://cdn2.luatvietnam.vn/images/qrcode-lvn.svg) [![googleplay](https://cdn2.luatvietnam.vn/images/google-play-badge.svg)](https://play.google.com/store/apps/details?id=com.iccom.luatvietnam) [![appstore](https://cdn2.luatvietnam.vn/images/appstore-badge.svg)](https://apps.apple.com/us/app/lu%E1%BA%ADt-vi%E1%BB%87t-nam/id1498874008)
-Quét mã QR code để cài đặt 
+Quét mã QR code để cài đặt
 Trụ sở: Tầng 3, Toà nhà IC, 82 Duy Tân, P.Cầu Giấy, TP.Hà Nội
 VPĐD: 648 Nguyễn Kiệm, Phường Đức Nhuận, TP. Hồ Chí Minh
 Điện thoại: 0938 36 1919 - Email: cskh@luatvietnam.vn
@@ -542,9 +542,9 @@ Liên hệ quảng cáo; quyền tác giả và các quyền liên quan: thuybt@
 
 
 CHÍNH SÁCH BẢO VỆ DỮ LIỆU CÁ NHÂN
-![Yêu cầu hỗ trợ](https://cdn2.luatvietnam.vn/images/support.svg)Yêu cầu hỗ trợ 
+![Yêu cầu hỗ trợ](https://cdn2.luatvietnam.vn/images/support.svg)Yêu cầu hỗ trợ
 Chú thích màu chỉ dẫn
-**Chú thích màu chỉ dẫn:**  
+**Chú thích màu chỉ dẫn:**
 _Các nội dung của VB này được VB khác thay đổi, hướng dẫn sẽ được làm nổi bật bằng các màu sắc:_
 Sửa đổi, bổ sung, đính chính
 Thay thế

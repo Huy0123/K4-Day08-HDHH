@@ -1,37 +1,36 @@
 """
 Task 3 - Convert toan bo file trong data/landing/ thanh Markdown.
 
-Su dung MarkItDown cua Microsoft:
-    https://github.com/microsoft/markitdown
-
-Cai dat:
-    pip install "markitdown[pdf]"
-
-Yeu cau:
-    1. Scan toan bo file trong data/landing/ (PDF, DOCX, JSON)
-    2. Convert sang Markdown
-    3. Luu vao data/standardized/ va giu nguyen cau truc thu muc con
+Thu tu convert:
+1. MarkItDown
+2. PyMuPDF text extraction
+3. OCR bang RapidOCR + PyMuPDF render
+4. Neu van that bai moi fallback sang metadata
 """
 
+import io
 import json
 from pathlib import Path
 
+import fitz  # PyMuPDF
 from markitdown import MarkItDown
+from PIL import Image
 from pypdf import PdfReader
+from rapidocr_onnxruntime import RapidOCR
 
 LANDING_DIR = Path(__file__).resolve().parent.parent / "data" / "landing"
 OUTPUT_DIR = Path(__file__).resolve().parent.parent / "data" / "standardized"
 MARKITDOWN_EXTENSIONS = {".pdf", ".docx", ".doc"}
+MIN_TEXT_LENGTH = 500
+MAX_OCR_PAGES = 10
 
 
 def build_output_path(input_path: Path) -> Path:
-    """Map data/landing/... sang data/standardized/... voi duoi .md."""
     relative_path = input_path.relative_to(LANDING_DIR)
     return OUTPUT_DIR / relative_path.with_suffix(".md")
 
 
 def load_legal_sources() -> dict[str, dict]:
-    """Doc metadata cho cac file legal tu sources.json neu co."""
     sources_path = LANDING_DIR / "legal" / "sources.json"
     if not sources_path.exists():
         return {}
@@ -47,40 +46,76 @@ def load_legal_sources() -> dict[str, dict]:
     }
 
 
+def normalize_text(text: str) -> str:
+    return "\n".join(line.rstrip() for line in text.splitlines()).strip()
+
+
+def is_good_extraction(text: str) -> bool:
+    return len(normalize_text(text)) >= MIN_TEXT_LENGTH
+
+
 def convert_with_markitdown(filepath: Path, md: MarkItDown) -> str:
-    """Convert cac file PDF/DOC/DOCX sang markdown."""
     result = md.convert(str(filepath))
-    text = (result.text_content or "").strip()
-    if text:
-        return text
+    return normalize_text(result.text_content or "")
 
-    if filepath.suffix.lower() == ".pdf":
-        return convert_pdf_with_pypdf(filepath)
 
-    return ""
+def convert_pdf_with_pymupdf(filepath: Path) -> str:
+    pages = []
+    with fitz.open(filepath) as doc:
+        for page in doc:
+            page_text = normalize_text(page.get_text("text") or "")
+            if page_text:
+                pages.append(page_text)
+
+    if not pages:
+        return ""
+    return f"# {filepath.stem}\n\n" + "\n\n".join(pages)
 
 
 def convert_pdf_with_pypdf(filepath: Path) -> str:
-    """Fallback khi MarkItDown khong extract duoc text tu PDF."""
     reader = PdfReader(str(filepath))
     pages = []
     for page in reader.pages:
-        page_text = (page.extract_text() or "").strip()
+        page_text = normalize_text(page.extract_text() or "")
         if page_text:
             pages.append(page_text)
 
     if not pages:
         return ""
+    return f"# {filepath.stem}\n\n" + "\n\n".join(pages)
 
-    title = f"# {filepath.stem}\n\n"
-    body = "\n\n".join(pages)
-    return title + body
+
+def convert_pdf_with_ocr(filepath: Path, ocr_engine: RapidOCR, max_pages: int = MAX_OCR_PAGES) -> str:
+    pages = []
+    with fitz.open(filepath) as doc:
+        total_pages = len(doc)
+        pages_to_process = min(total_pages, max_pages)
+        print(f"  Running OCR on {pages_to_process}/{total_pages} pages")
+
+        for page_index, page in enumerate(doc, start=1):
+            if page_index > max_pages:
+                break
+
+            print(f"    OCR page {page_index}/{pages_to_process}")
+            pix = page.get_pixmap(matrix=fitz.Matrix(2, 2), alpha=False)
+            image = Image.open(io.BytesIO(pix.tobytes("png")))
+            result, _ = ocr_engine(image)
+            lines = []
+            if result:
+                for item in result:
+                    if len(item) >= 2 and item[1]:
+                        lines.append(str(item[1]).strip())
+            page_text = normalize_text("\n".join(lines))
+            if page_text:
+                pages.append(f"## Page {page_index}\n\n{page_text}")
+
+    if not pages:
+        return ""
+    return f"# {filepath.stem}\n\n" + "\n\n".join(pages)
 
 
 def build_legal_metadata_markdown(filepath: Path, legal_sources: dict[str, dict]) -> str:
-    """Fallback tao markdown tu metadata khi PDF khong extract duoc text."""
     metadata = legal_sources.get(filepath.name, {})
-
     title = metadata.get("title", filepath.stem)
     lines = [f"# {title}", ""]
 
@@ -102,8 +137,8 @@ def build_legal_metadata_markdown(filepath: Path, legal_sources: dict[str, dict]
             "",
             "## Extraction Note",
             "",
-            "This PDF could not be reliably converted to plain text in the current environment.",
-            "The markdown file keeps source metadata so the document is still indexed and traceable.",
+            "This PDF could not be converted to full text with the available local libraries.",
+            "Source metadata is kept so the document remains traceable.",
             "",
         ]
     )
@@ -114,25 +149,12 @@ def build_legal_metadata_markdown(filepath: Path, legal_sources: dict[str, dict]
         lines.append(str(metadata["status_note"]))
         lines.append("")
 
-    lines.extend(
-        [
-            "## File Information",
-            "",
-            f"- Original filename: `{filepath.name}`",
-            f"- Relative path: `data/landing/legal/{filepath.name}`",
-            "",
-            "Use the original PDF when detailed article-level legal text is needed.",
-        ]
-    )
-
     return "\n".join(lines).strip() + "\n"
 
 
 def convert_json_to_markdown(filepath: Path) -> str:
-    """Convert file JSON crawled article/metadata sang markdown."""
     data = json.loads(filepath.read_text(encoding="utf-8"))
 
-    # News/article JSON: uu tien dung metadata header + noi dung markdown.
     if any(key in data for key in ("title", "url", "content_markdown", "content")):
         header = f"# {data.get('title', filepath.stem)}\n\n"
         if data.get("url"):
@@ -149,48 +171,79 @@ def convert_json_to_markdown(filepath: Path) -> str:
             return header + content
         return header + "```json\n" + json.dumps(data, ensure_ascii=False, indent=2) + "\n```"
 
-    # JSON khac: luu nguyen dang code block de van co file markdown hop le.
     return f"# {filepath.stem}\n\n```json\n{json.dumps(data, ensure_ascii=False, indent=2)}\n```"
 
 
-def convert_file(filepath: Path, md: MarkItDown, legal_sources: dict[str, dict]) -> Path | None:
-    """Convert mot file trong data/landing sang file markdown tuong ung."""
+def convert_pdf(filepath: Path, md: MarkItDown, ocr_engine: RapidOCR, legal_sources: dict[str, dict]) -> str:
+    text = convert_with_markitdown(filepath, md)
+    if is_good_extraction(text):
+        print("  Extracted with MarkItDown")
+        return text
+
+    text = convert_pdf_with_pymupdf(filepath)
+    if is_good_extraction(text):
+        print("  Extracted with PyMuPDF fallback")
+        return text
+
+    text = convert_pdf_with_pypdf(filepath)
+    if is_good_extraction(text):
+        print("  Extracted with pypdf fallback")
+        return text
+
+    text = convert_pdf_with_ocr(filepath, ocr_engine)
+    if is_good_extraction(text):
+        print("  Extracted with RapidOCR fallback")
+        return text
+
+    print("  Falling back to metadata because full-text extraction failed")
+    return build_legal_metadata_markdown(filepath, legal_sources)
+
+
+def convert_file(
+    filepath: Path,
+    md: MarkItDown,
+    ocr_engine: RapidOCR,
+    legal_sources: dict[str, dict],
+) -> Path | None:
     suffix = filepath.suffix.lower()
-    if suffix in MARKITDOWN_EXTENSIONS:
+
+    if suffix == ".pdf":
+        content = convert_pdf(filepath, md, ocr_engine, legal_sources)
+    elif suffix in {".docx", ".doc"}:
         content = convert_with_markitdown(filepath, md)
-        if not content.strip() and filepath.suffix.lower() == ".pdf":
-            content = build_legal_metadata_markdown(filepath, legal_sources)
     elif suffix == ".json":
         content = convert_json_to_markdown(filepath)
     else:
         return None
 
-    if not content.strip():
+    content = normalize_text(content)
+    if not content:
         raise ValueError(f"Khong the trich xuat noi dung tu file: {filepath}")
 
     output_path = build_output_path(filepath)
     output_path.parent.mkdir(parents=True, exist_ok=True)
-    output_path.write_text(content, encoding="utf-8")
+    output_path.write_text(content + "\n", encoding="utf-8")
     return output_path
 
 
 def convert_all() -> None:
-    """Convert toan bo file hop le tu data/landing sang data/standardized."""
     print("=" * 50)
     print("Task 3: Convert to Markdown (MarkItDown)")
     print("=" * 50)
 
     md = MarkItDown()
+    ocr_engine = RapidOCR()
     legal_sources = load_legal_sources()
+    supported_extensions = MARKITDOWN_EXTENSIONS.union({".json"})
     supported_files = [
         path
         for path in sorted(LANDING_DIR.rglob("*"))
-        if path.is_file() and path.suffix.lower() in MARKITDOWN_EXTENSIONS.union({".json"})
+        if path.is_file() and path.suffix.lower() in supported_extensions
     ]
 
     for filepath in supported_files:
         print(f"Converting: {filepath.relative_to(LANDING_DIR)}")
-        output_path = convert_file(filepath, md, legal_sources)
+        output_path = convert_file(filepath, md, ocr_engine, legal_sources)
         if output_path is not None:
             print(f"  Saved: {output_path.relative_to(OUTPUT_DIR.parent)}")
 

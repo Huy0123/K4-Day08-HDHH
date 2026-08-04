@@ -6,7 +6,7 @@
 ---
 
 [ ![Luật Việt Nam](https://cdn2.luatvietnam.vn/images/logo.svg) ](https://luatvietnam.vn/)
-Danh mục 
+Danh mục
 |
 Tổng đài trực tuyến **19006192**
 |
@@ -65,7 +65,7 @@ Tổng đài trực tuyến **19006192**
     * [ Giá xăng hôm nay ](https://luatvietnam.vn/bang-gia-xang-dau-hom-nay.html "Giá xăng hôm nay")
 
 
-Tất cả chuyên mục Đóng 
+Tất cả chuyên mục Đóng
 [Văn bản](https://luatvietnam.vn/lao-dong/cong-van-7617-bnv-tcbc-2026-giai-quyet-chinh-sach-cho-nguoi-hoat-dong-khong-chuyen-trach-nghi-viec-440692-d6.html "Văn bản")
   * [ Văn bản mới ](https://luatvietnam.vn/van-ban-moi.html "Văn bản mới")
   * [ Văn bản luật Việt Nam ](https://luatvietnam.vn/van-ban-luat-viet-nam.html "Văn bản luật Việt Nam")
@@ -230,18 +230,18 @@ Tìm kiếm
 [ Tìm nâng cao ](https://luatvietnam.vn/van-ban/tim-kiem.html?AdvancedSearch=1 "Tìm nâng cao")
 [Văn bản](javascript:void\(0\)) [Tin tức](javascript:void\(0\)) [Hỏi đáp](javascript:void\(0\)) [Bản án](javascript:void\(0\))
 [👉 _Quay về: Tra cứu văn bản (phiên bản cũ)_](https://luatvietnam.vn/van-ban/tim-van-ban.html)
-  * Tổng quan 
-  * Nội dung 
-  * VB gốc 
+  * Tổng quan
+  * Nội dung
+  * VB gốc
   * Tiếng Anh
-  * Hiệu lực 
-  * VB liên quan 
-  * Lược đồ 
-  * Nội dung hợp nhất 
+  * Hiệu lực
+  * VB liên quan
+  * Lược đồ
+  * Nội dung hợp nhất
 Tính năng này chỉ có tại LuatVietnam.vn. Nội dung hợp nhất tổng hợp lại tất cả các quy định còn hiệu lực của văn bản gốc và các văn bản sửa đổi, bổ sung, đính chính... trên một trang. Việc hợp nhất văn bản gốc và những văn bản, Thông tư, Nghị định hướng dẫn khác không làm thay đổi thứ tự điều khoản, nội dung.
 Khách hàng chỉ cần xem Nội dung hợp nhất là có thể nắm bắt toàn bộ quy định hiện hành đang áp dụng, cho dù văn bản gốc đã qua nhiều lần chỉnh sửa, bổ sung.
 [ =>> Xem hướng dẫn chi tiết cách sử dụng Nội dung hợp nhất ](https://www.youtube.com/watch?v=xQfPxq-Fkms "Xem hướng dẫn chi tiết cách sử dụng Nội dung hợp nhất")
-  * Tải về 
+  * Tải về
 
 
 Lưu
@@ -250,44 +250,44 @@ Theo dõi VB
 Đây là tiện ích dành cho tài khoản [ Tiêu chuẩn ](https://luatvietnam.vn/dich-vu.html) hoặc [ Nâng cao ](https://luatvietnam.vn/dich-vu.html). Vui lòng [Đăng nhập](https://luatvietnam.vn/lao-dong/cong-van-7617-bnv-tcbc-2026-giai-quyet-chinh-sach-cho-nguoi-hoat-dong-khong-chuyen-trach-nghi-viec-440692-d6.html) tài khoản để xem chi tiết.
 Ghi chú
 Báo lỗi
-In 
-  * Báo lỗi 
+In
+  * Báo lỗi
   * [ Gửi liên kết tới Email ](https://luatvietnam.vn/lao-dong/cong-van-7617-bnv-tcbc-2026-giai-quyet-chinh-sach-cho-nguoi-hoat-dong-khong-chuyen-trach-nghi-viec-440692-d6.html "Gửi liên kết tới Email")
   * Chia sẻ:  [ ](https://luatvietnam.vn/lao-dong/cong-van-7617-bnv-tcbc-2026-giai-quyet-chinh-sach-cho-nguoi-hoat-dong-khong-chuyen-trach-nghi-viec-440692-d6.html "Chia sẻ qua Facebook") [ ](https://luatvietnam.vn/lao-dong/cong-van-7617-bnv-tcbc-2026-giai-quyet-chinh-sach-cho-nguoi-hoat-dong-khong-chuyen-trach-nghi-viec-440692-d6.html "Chia sẻ qua X")
 
 
 # Công văn 7617/BNV-TCBC 2026 về việc giải quyết chính sách đối với người hoạt động không chuyên trách ở thôn, tổ dân phố nghỉ việc do sắp xếp thôn, tổ dân phố
-Ngày cập nhật: Thứ Bảy, 18/07/2026 08:21 (GMT+7)  
-| **Cơ quan ban hành:**  |  Bộ Nội vụ  |  **Số công báo:** Số công báo là mã số ấn phẩm được đăng chính thức trên ấn phẩm thông tin của Nhà nước. Mã số này do Chính phủ thống nhất quản lý.   |  _Đang cập nhật_  |  
-| --- | --- | --- | --- |  
-| **Số hiệu:**  | 7617/BNV-TCBC  | **Ngày đăng công báo:**  |  _Đang cập nhật_  |  
-| **Loại văn bản:**  |  Công văn  | **Người ký:**  |  Vũ Chiến Thắng  |  
-| **Trích yếu:**  |  Về việc giải quyết chính sách đối với người hoạt động không chuyên trách ở thôn, tổ dân phố nghỉ việc do sắp xếp thôn, tổ dân phố   |  
-|  **Ngày ban hành:** Ngày ban hành là ngày, tháng, năm văn bản được thông qua hoặc ký ban hành.   | 17/07/2026  |  **Ngày hết hiệu lực:** Ngày hết hiệu lực là ngày, tháng, năm văn bản chính thức không còn hiệu lực (áp dụng).   |  _Đang cập nhật_  |  
-|  **Áp dụng:** Ngày áp dụng là ngày, tháng, năm văn bản chính thức có hiệu lực (áp dụng).   |  Đã biết Tiện ích dành cho tài khoản [Tiêu chuẩn](https://luatvietnam.vn/dich-vu.html) hoặc [Nâng cao](https://luatvietnam.vn/dich-vu.html). Vui lòng [Đăng nhập](javascript:void\(0\)) tài khoản để xem chi tiết.   |  **Tình trạng hiệu lực:** Cho biết trạng thái hiệu lực của văn bản đang tra cứu: Chưa áp dụng, Còn hiệu lực, Hết hiệu lực, Hết hiệu lực 1 phần; Đã sửa đổi, Đính chính hay Không còn phù hợp,...   |  Đã biết Tiện ích dành cho tài khoản [Tiêu chuẩn](https://luatvietnam.vn/dich-vu.html) hoặc [Nâng cao](https://luatvietnam.vn/dich-vu.html). Vui lòng [Đăng nhập](javascript:void\(0\)) tài khoản để xem chi tiết.   |  
-| **Lĩnh vực:**  |  [Lao động-Tiền lương](https://luatvietnam.vn/lao-dong-tien-luong-7-f6.html "Lao động-Tiền lương") [Chính sách](https://luatvietnam.vn/chinh-sach-25-f6.html "Chính sách")  |   |   |  
+Ngày cập nhật: Thứ Bảy, 18/07/2026 08:21 (GMT+7)
+| **Cơ quan ban hành:**  |  Bộ Nội vụ  |  **Số công báo:** Số công báo là mã số ấn phẩm được đăng chính thức trên ấn phẩm thông tin của Nhà nước. Mã số này do Chính phủ thống nhất quản lý.   |  _Đang cập nhật_  |
+| --- | --- | --- | --- |
+| **Số hiệu:**  | 7617/BNV-TCBC  | **Ngày đăng công báo:**  |  _Đang cập nhật_  |
+| **Loại văn bản:**  |  Công văn  | **Người ký:**  |  Vũ Chiến Thắng  |
+| **Trích yếu:**  |  Về việc giải quyết chính sách đối với người hoạt động không chuyên trách ở thôn, tổ dân phố nghỉ việc do sắp xếp thôn, tổ dân phố   |
+|  **Ngày ban hành:** Ngày ban hành là ngày, tháng, năm văn bản được thông qua hoặc ký ban hành.   | 17/07/2026  |  **Ngày hết hiệu lực:** Ngày hết hiệu lực là ngày, tháng, năm văn bản chính thức không còn hiệu lực (áp dụng).   |  _Đang cập nhật_  |
+|  **Áp dụng:** Ngày áp dụng là ngày, tháng, năm văn bản chính thức có hiệu lực (áp dụng).   |  Đã biết Tiện ích dành cho tài khoản [Tiêu chuẩn](https://luatvietnam.vn/dich-vu.html) hoặc [Nâng cao](https://luatvietnam.vn/dich-vu.html). Vui lòng [Đăng nhập](javascript:void\(0\)) tài khoản để xem chi tiết.   |  **Tình trạng hiệu lực:** Cho biết trạng thái hiệu lực của văn bản đang tra cứu: Chưa áp dụng, Còn hiệu lực, Hết hiệu lực, Hết hiệu lực 1 phần; Đã sửa đổi, Đính chính hay Không còn phù hợp,...   |  Đã biết Tiện ích dành cho tài khoản [Tiêu chuẩn](https://luatvietnam.vn/dich-vu.html) hoặc [Nâng cao](https://luatvietnam.vn/dich-vu.html). Vui lòng [Đăng nhập](javascript:void\(0\)) tài khoản để xem chi tiết.   |
+| **Lĩnh vực:**  |  [Lao động-Tiền lương](https://luatvietnam.vn/lao-dong-tien-luong-7-f6.html "Lao động-Tiền lương") [Chính sách](https://luatvietnam.vn/chinh-sach-25-f6.html "Chính sách")  |   |   |
 ## TÓM TẮT CÔNG VĂN 7617/BNV-TCBC
 _Nội dung tóm tắt đang được cập nhật, Quý khách vui lòng quay lại sau!_
 ## Tải Công văn 7617/BNV-TCBC
 Công văn 7617/BNV-TCBC PDF (Bản có dấu đỏ)
-Đây là tiện ích dành cho tài khoản thành viên. Vui lòng [Đăng nhập](javascript:void\(0\)) để xem chi tiết. Nếu chưa có tài khoản, [Đăng ký](javascript:void\(0\)) tại đây! 
+Đây là tiện ích dành cho tài khoản thành viên. Vui lòng [Đăng nhập](javascript:void\(0\)) để xem chi tiết. Nếu chưa có tài khoản, [Đăng ký](javascript:void\(0\)) tại đây!
 Công văn 7617/BNV-TCBC DOC (Bản Word)
-Đây là tiện ích dành cho tài khoản thành viên. Vui lòng [Đăng nhập](javascript:void\(0\)) để xem chi tiết. Nếu chưa có tài khoản, [Đăng ký](javascript:void\(0\)) tại đây! 
+Đây là tiện ích dành cho tài khoản thành viên. Vui lòng [Đăng nhập](javascript:void\(0\)) để xem chi tiết. Nếu chưa có tài khoản, [Đăng ký](javascript:void\(0\)) tại đây!
 Tình trạng hiệu lực: **Đã biết**
 Hiệu lực: Đã biết
-Tình trạng hiệu lực: Đã biết  
-|  **BỘ NỘI VỤ**  
-_______  
-Số: 7617/BNV-TCBC  
-V/v giải quyết chính sách đối với người hoạt động không chuyên trách ở thôn, tổ dân phố nghỉ việc do sắp xếp thôn, tổ dân phố  |  **CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM**  
-**Độc lập****-****Tự do****-****Hạnh phúc**  
-_________________ _Hà Nội, ngày_ 17 _tháng_ 7 _năm 2026_  |  
-| --- | --- |  
+Tình trạng hiệu lực: Đã biết
+|  **BỘ NỘI VỤ**
+_______
+Số: 7617/BNV-TCBC
+V/v giải quyết chính sách đối với người hoạt động không chuyên trách ở thôn, tổ dân phố nghỉ việc do sắp xếp thôn, tổ dân phố  |  **CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM**
+**Độc lập****-****Tự do****-****Hạnh phúc**
+_________________ _Hà Nội, ngày_ 17 _tháng_ 7 _năm 2026_  |
+| --- | --- |
 Kính gửi: Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương
 Ngày 07/7/2026, Bộ Nội vụ đã có Văn bản số [7031/BNV-TCBC](https://luatvietnam.vn/lao-dong/cong-van-7031-bnv-tcbc-2026-chinh-sach-cho-nguoi-khong-chuyen-trach-nghi-viec-do-sap-xep-thon-to-dan-pho-439680-d6.html "7031/BNV-TCBC") về chính sách đối với người hoạt động không chuyên trách ở thôn, tổ dân phố nghỉ việc trong quá trình sắp xếp, tổ chức lại thôn, tổ dân phố. Đến nay, theo đề nghị của một số địa phương và để thống nhất thực hiện việc giải quyết chính sách đối với người hoạt động không chuyên trách ở thôn, tổ dân phố trong phạm vi cả nước, Bộ Nội vụ có ý kiến như sau:
 1. Về việc xác định người hoạt động không chuyên trách ở thôn, tổ dân phố dôi dư do sắp xếp thôn, tổ dân phố
 Tại khoản 1 Điều 14 Nghị định số [185/2026/NĐ-CP](https://luatvietnam.vn/lao-dong/nghi-dinh-185-2026-nd-cp-quy-dinh-to-chuc-hoat-dong-thon-to-dan-pho-va-chinh-sach-nguoi-khong-chuyen-trach-435528-d1.html "185/2026/NĐ-CP")[1] đã quy định người hoạt động không chuyên trách ở thôn, tổ dân phố gồm các chức danh: Trưởng thôn hoặc Tổ trưởng tổ dân phố; Bí thư Chi bộ; Trưởng Ban Công tác Mặt trận. Theo đó, đối với các thôn, tổ dân phố thực hiện phương án sắp xếp thành một thôn, tổ dân phố mới theo quyết định của cấp có thẩm quyền thì số người hoạt động không chuyên trách ở thôn, tổ dân phố dôi dư được xác định trên số chênh lệch giữa tổng số người hoạt động không chuyên trách ở thôn, tổ dân phố có mặt tại thời điểm sắp xếp so với số lượng người hoạt động không chuyên trách được bố trí ở thôn, tổ dân phố theo quy định tại khoản 2 Điều 14 Nghị định số [185/2026/NĐ-CP](https://luatvietnam.vn/lao-dong/nghi-dinh-185-2026-nd-cp-quy-dinh-to-chuc-hoat-dong-thon-to-dan-pho-va-chinh-sach-nguoi-khong-chuyen-trach-435528-d1.html "185/2026/NĐ-CP").
-Đề nghị các địa phương căn cứ vào phương án bố trí nhân sự của các thôn, tổ dân phố sau sắp xếp để xem xét, quyết định đối tượng nghỉ việc, đảm bảo số người được giải quyết nghỉ việc theo quy định tại khoản 5 Điều 2 Nghị định số [154/2025/NĐ-CP](https://luatvietnam.vn/linh-vuc-khac/nghi-dinh-154-2025-nd-cp-quy-dinh-ve-tinh-gian-bien-che-402906-d1.html "154/2025/NĐ-CP")[2] không vượt quá số người hoạt động không chuyên trách được xác định dôi dư của thôn, tổ dân phố đó. 
+Đề nghị các địa phương căn cứ vào phương án bố trí nhân sự của các thôn, tổ dân phố sau sắp xếp để xem xét, quyết định đối tượng nghỉ việc, đảm bảo số người được giải quyết nghỉ việc theo quy định tại khoản 5 Điều 2 Nghị định số [154/2025/NĐ-CP](https://luatvietnam.vn/linh-vuc-khac/nghi-dinh-154-2025-nd-cp-quy-dinh-ve-tinh-gian-bien-che-402906-d1.html "154/2025/NĐ-CP")[2] không vượt quá số người hoạt động không chuyên trách được xác định dôi dư của thôn, tổ dân phố đó.
 Đang theo dõi
 2. Về nguồn kinh phí
 về nguồn kinh phí chi trả chính sách đối với các trường hợp nghỉ việc do địa phương chủ động cơ cấu, kiện toàn đội ngũ nhưng không thuộc đối tượng áp dụng của Nghị định số [154/2025/NĐ-CP](https://luatvietnam.vn/linh-vuc-khac/nghi-dinh-154-2025-nd-cp-quy-dinh-ve-tinh-gian-bien-che-402906-d1.html "154/2025/NĐ-CP"), đề nghị thực hiện theo hướng dẫn của Bộ Nội vụ tại Văn bản số [7031/BNV-TCBC](https://luatvietnam.vn/lao-dong/cong-van-7031-bnv-tcbc-2026-chinh-sach-cho-nguoi-khong-chuyen-trach-nghi-viec-do-sap-xep-thon-to-dan-pho-439680-d6.html "7031/BNV-TCBC").
@@ -295,32 +295,32 @@ về nguồn kinh phí chi trả chính sách đối với các trường hợp 
 3. Về tổ chức thực hiện
 Đề nghị các địa phương căn cứ quy định tại Nghị định số [154/2025/NĐ-CP](https://luatvietnam.vn/linh-vuc-khac/nghi-dinh-154-2025-nd-cp-quy-dinh-ve-tinh-gian-bien-che-402906-d1.html "154/2025/NĐ-CP") và hướng dẫn của Bộ Nội vụ tại Văn bản số [7031/BNV-TCBC](https://luatvietnam.vn/lao-dong/cong-van-7031-bnv-tcbc-2026-chinh-sach-cho-nguoi-khong-chuyen-trach-nghi-viec-do-sap-xep-thon-to-dan-pho-439680-d6.html "7031/BNV-TCBC") khẩn trương giải quyết chính sách đối với người hoạt động không chuyên trách ở thôn, tổ dân phố theo thẩm quyền; đồng thời, báo cáo kết quả tình hình triển khai thực hiện về Bộ Nội vụ trước ngày 30/7/2026 để Bộ Nội vụ tổng hợp, báo cáo cấp có thẩm quyền theo quy định.
 Trên đây là ý kiến của Bộ Nội vụ, đề nghị Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương thực hiện./.
-Đang theo dõi  
-|  **_Nơi nhận:_**  
-- Như trên;  
-- Thủ tướng Chính phủ (để b/c);  
-- Phó Thủ tướng Chính phủ Phạm Thị Thanh Trà (để b/c);  
-- Văn phòng Chính phủ;  
-- Bộ Tài chính;  
-- Sở Nội vụ các tỉnh, TP trực thuộc Trung ương;  
-- Bộ trưởng (để b/c);  
-- TT Vũ Chiến Thắng;  
-- Lưu: VT, TCBC.  |  **KT. BỘ TRƯỞNG**  
-**THỨ TRƯỞNG** **Vũ Chiến Thắn****g**  |  
-| --- | --- |  
-  
-  
+Đang theo dõi
+|  **_Nơi nhận:_**
+- Như trên;
+- Thủ tướng Chính phủ (để b/c);
+- Phó Thủ tướng Chính phủ Phạm Thị Thanh Trà (để b/c);
+- Văn phòng Chính phủ;
+- Bộ Tài chính;
+- Sở Nội vụ các tỉnh, TP trực thuộc Trung ương;
+- Bộ trưởng (để b/c);
+- TT Vũ Chiến Thắng;
+- Lưu: VT, TCBC.  |  **KT. BỘ TRƯỞNG**
+**THỨ TRƯỞNG** **Vũ Chiến Thắn****g**  |
+| --- | --- |
+
+
 ______________
-[1] Nghị định số [185/2026/NĐ-CP](https://luatvietnam.vn/lao-dong/nghi-dinh-185-2026-nd-cp-quy-dinh-to-chuc-hoat-dong-thon-to-dan-pho-va-chinh-sach-nguoi-khong-chuyen-trach-435528-d1.html "185/2026/NĐ-CP") ngày 26/5/2026 của Chính phủ quy định về tổ chức, hoạt động của thôn, tổ dân phố và chế độ, chính sách đối với người hoạt động không chuyên trách ở thôn, tổ dân phố  
+[1] Nghị định số [185/2026/NĐ-CP](https://luatvietnam.vn/lao-dong/nghi-dinh-185-2026-nd-cp-quy-dinh-to-chuc-hoat-dong-thon-to-dan-pho-va-chinh-sach-nguoi-khong-chuyen-trach-435528-d1.html "185/2026/NĐ-CP") ngày 26/5/2026 của Chính phủ quy định về tổ chức, hoạt động của thôn, tổ dân phố và chế độ, chính sách đối với người hoạt động không chuyên trách ở thôn, tổ dân phố
 [2] Nghị định số [154/2025/NĐ-CP](https://luatvietnam.vn/linh-vuc-khac/nghi-dinh-154-2025-nd-cp-quy-dinh-ve-tinh-gian-bien-che-402906-d1.html "154/2025/NĐ-CP") ngày 15/6/2025 của Chính phủ quy định về chính sách linh hoạt biên chế
-  
+
 
 **Bạn chưa Đăng nhập thành viên.**
 Đây là tiện ích dành cho tài khoản thành viên. Vui lòng [Đăng nhập](javascript:void\(0\)) để xem chi tiết. Nếu chưa có tài khoản, vui lòng [Đăng ký tại đây](javascript:void\(0\))!
 Công văn 7617/BNV-TCBC của Bộ Nội vụ về việc giải quyết chính sách đối với người hoạt động không chuyên trách ở thôn, tổ dân phố nghỉ việc do sắp xếp thôn, tổ dân phố
 **Bạn chưa Đăng nhập thành viên.**
 Đây là tiện ích dành cho tài khoản thành viên. Vui lòng Đăng nhập để xem chi tiết. Nếu chưa có tài khoản, vui lòng Đăng ký tại đây!
-*** Lưu ý:** Để đọc được văn bản tải trên Luatvietnam.vn, bạn cần cài phần mềm đọc file DOC, DOCX và phần mềm đọc file PDF. 
+*** Lưu ý:** Để đọc được văn bản tải trên Luatvietnam.vn, bạn cần cài phần mềm đọc file DOC, DOCX và phần mềm đọc file PDF.
 [ Lã Nga ](https://luatvietnam.vn/author/la-nga-luatvietnam-31.html "Lã Nga ")
 ## văn bản cùng lĩnh vực
 [ ![image](https://cdn2.luatvietnam.vn/images/file-text.svg) ](https://luatvietnam.vn/lao-dong/cong-van-7851-bnv-tcbc-2026-huong-dan-thuc-hien-che-do-chinh-sach-theo-nghi-dinh-154-2025-nd-cp-441866-d6.html)
@@ -365,7 +365,7 @@ Công văn 7617/BNV-TCBC của Bộ Nội vụ về việc giải quyết chính
 [ ](https://luatvietnam.vn/tin-van-ban-moi/bo-noi-vu-huong-dan-cach-xac-dinh-nguoi-hoat-dong-khong-chuyen-trach-doi-du-sau-sap-xep-thon-to-dan-pho-186-110584-article.html)
 [Bộ Nội vụ hướng dẫn cách xác định người hoạt động không chuyên trách dôi dư sau sắp xếp thôn, tổ dân phố](https://luatvietnam.vn/tin-van-ban-moi/bo-noi-vu-huong-dan-cach-xac-dinh-nguoi-hoat-dong-khong-chuyen-trach-doi-du-sau-sap-xep-thon-to-dan-pho-186-110584-article.html)
 [ Xem thêm ](https://luatvietnam.vn/bai-viet-lien-quan/cong-van-7617-bnv-tcbc-2026-440692.html)
-### Hỏi đáp pháp luật về Lao động-Tiền lương 
+### Hỏi đáp pháp luật về Lao động-Tiền lương
   * [Tự ý nghỉ phép khi chưa được Công ty duyệt: Có bị buộc thôi việc không?](https://luatvietnam.vn/luat-su-tu-van/tu-y-nghi-phep-khi-chua-duoc-cong-ty-duyet-co-bi-buoc-thoi-viec-khong-151296-faqs.html)
   * [Ngày đi đường được cộng khi nghỉ phép năm?](https://luatvietnam.vn/luat-su-tu-van/ngay-di-duong-duoc-cong-khi-nghi-phep-nam-151061-faqs.html)
   * [Ngày đi đường được cộng khi nghỉ phép năm?](https://luatvietnam.vn/luat-su-tu-van/ngay-di-duong-duoc-cong-khi-nghi-phep-nam-151060-faqs.html)
@@ -411,17 +411,17 @@ Công văn 7617/BNV-TCBC của Bộ Nội vụ về việc giải quyết chính
   * Hiệu lực
   * VB liên quan
   * Lược đồ
-  * Nội dung hợp nhất 
+  * Nội dung hợp nhất
 Tính năng này chỉ có tại LuatVietnam.vn. Nội dung hợp nhất tổng hợp lại tất cả các quy định còn hiệu lực của văn bản gốc và các văn bản sửa đổi, bổ sung, đính chính... trên một trang. Việc hợp nhất văn bản gốc và những văn bản, Thông tư, Nghị định hướng dẫn khác không làm thay đổi thứ tự điều khoản, nội dung.
 Khách hàng chỉ cần xem Nội dung hợp nhất là có thể nắm bắt toàn bộ quy định hiện hành đang áp dụng, cho dù văn bản gốc đã qua nhiều lần chỉnh sửa, bổ sung.
 [ =>> Xem hướng dẫn chi tiết cách sử dụng Nội dung hợp nhất ](https://www.youtube.com/watch?v=xQfPxq-Fkms "Xem hướng dẫn chi tiết cách sử dụng Nội dung hợp nhất")
-  * Tải về 
+  * Tải về
 
 
 Đây là tiện ích dành cho tài khoản [ Tiêu chuẩn ](https://luatvietnam.vn/dich-vu.html) hoặc [ Nâng cao ](https://luatvietnam.vn/dich-vu.html). Vui lòng [Đăng nhập](https://luatvietnam.vn/lao-dong/cong-van-7617-bnv-tcbc-2026-giai-quyet-chinh-sach-cho-nguoi-hoat-dong-khong-chuyen-trach-nghi-viec-440692-d6.html) tài khoản để xem chi tiết.
 Đây là tiện ích dành cho tài khoản [ Tiêu chuẩn ](https://luatvietnam.vn/dich-vu.html) hoặc [ Nâng cao ](https://luatvietnam.vn/dich-vu.html). Vui lòng [Đăng nhập](https://luatvietnam.vn/lao-dong/cong-van-7617-bnv-tcbc-2026-giai-quyet-chinh-sach-cho-nguoi-hoat-dong-khong-chuyen-trach-nghi-viec-440692-d6.html) tài khoản để xem chi tiết.
-In 
-  * Báo lỗi 
+In
+  * Báo lỗi
   * [ Gửi liên kết tới Email ](https://luatvietnam.vn/lao-dong/cong-van-7617-bnv-tcbc-2026-giai-quyet-chinh-sach-cho-nguoi-hoat-dong-khong-chuyen-trach-nghi-viec-440692-d6.html "Gửi liên kết tới Email")
   * Chia sẻ:  [ ](https://luatvietnam.vn/lao-dong/cong-van-7617-bnv-tcbc-2026-giai-quyet-chinh-sach-cho-nguoi-hoat-dong-khong-chuyen-trach-nghi-viec-440692-d6.html "Chia sẻ qua Facebook") [ ](https://luatvietnam.vn/lao-dong/cong-van-7617-bnv-tcbc-2026-giai-quyet-chinh-sach-cho-nguoi-hoat-dong-khong-chuyen-trach-nghi-viec-440692-d6.html "Chia sẻ qua X")
 
@@ -456,13 +456,13 @@ Chính sách
 Giấy phép thiết lập trang Thông tin điện tử tổng hợp số: 692/GP-TTĐT cấp ngày 29/10/2010 bởi
 Sở TT-TT Hà Nội, thay thế giấy phép số: 322/GP - BC, ngày 26/07/2007, cấp bởi Bộ Thông tin và Truyền thông
 Chứng nhận bản quyền tác giả số 280/2009/QTG ngày 16/02/2009, cấp bởi Bộ Văn hoá - Thể thao - Du lịch
-Cơ quan chủ quản: Công ty Cổ phần Truyền thông Luật Việt Nam. Chịu trách nhiệm: Ông Trần Văn Trí 
+Cơ quan chủ quản: Công ty Cổ phần Truyền thông Luật Việt Nam. Chịu trách nhiệm: Ông Trần Văn Trí
 **Hỗ trợ về dịch vụ:** **0938 36 1919**
 **Hỗ trợ giải đáp pháp luật:** [**1900 6192**](tel:19006192)
 [ ![](https://cdn2.luatvietnam.vn/images/1-face.png) ](https://www.facebook.com/Luatvietnam.vn "Facebook LuatVietnam") [ ![](https://cdn2.luatvietnam.vn/images/2-zalo.png) ](https://zalo.me/0938361919 "Zalo LuatVietnam") [![](https://cdn2.luatvietnam.vn/images/3-you.png)](https://www.youtube.com/channel/UCJS4-HA9bdP8ZJ9o_mFRIFA/videos "Youtube LuatVietnam") [ ![](https://cdn2.luatvietnam.vn/images/4-tiktok.png) ](https://www.tiktok.com/@luatvietnam "TikTok LuatVietnam") [![](https://cdn2.luatvietnam.vn/images/5-tw.png) ](https://twitter.com/LuatVietNam_VN "Twitter LuatVietnam") [ ![linkedin](https://cdn2.luatvietnam.vn/images/7-linkedin.svg) ](https://www.linkedin.com/in/luatvietnam/ "Linkedin LuatVietnam")
-Tải ứng dụng luatvietnam 
+Tải ứng dụng luatvietnam
 ![qrcode](https://cdn2.luatvietnam.vn/images/qrcode-lvn.svg) [![googleplay](https://cdn2.luatvietnam.vn/images/google-play-badge.svg)](https://play.google.com/store/apps/details?id=com.iccom.luatvietnam) [![appstore](https://cdn2.luatvietnam.vn/images/appstore-badge.svg)](https://apps.apple.com/us/app/lu%E1%BA%ADt-vi%E1%BB%87t-nam/id1498874008)
-Quét mã QR code để cài đặt 
+Quét mã QR code để cài đặt
 Trụ sở: Tầng 3, Toà nhà IC, 82 Duy Tân, P.Cầu Giấy, TP.Hà Nội
 VPĐD: 648 Nguyễn Kiệm, Phường Đức Nhuận, TP. Hồ Chí Minh
 Điện thoại: 0938 36 1919 - Email: cskh@luatvietnam.vn
@@ -475,9 +475,9 @@ Liên hệ quảng cáo; quyền tác giả và các quyền liên quan: thuybt@
 
 
 CHÍNH SÁCH BẢO VỆ DỮ LIỆU CÁ NHÂN
-![Yêu cầu hỗ trợ](https://cdn2.luatvietnam.vn/images/support.svg)Yêu cầu hỗ trợ 
+![Yêu cầu hỗ trợ](https://cdn2.luatvietnam.vn/images/support.svg)Yêu cầu hỗ trợ
 Chú thích màu chỉ dẫn
-**Chú thích màu chỉ dẫn:**  
+**Chú thích màu chỉ dẫn:**
 _Các nội dung của VB này được VB khác thay đổi, hướng dẫn sẽ được làm nổi bật bằng các màu sắc:_
 Sửa đổi, bổ sung, đính chính
 Thay thế
