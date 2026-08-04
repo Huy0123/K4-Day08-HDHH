@@ -1,0 +1,36 @@
+# sources
+
+```json
+[
+  {
+    "filename": "bo-luat-lao-dong-45-2019-qh14.pdf",
+    "title": "Bộ luật Lao động số 45/2019/QH14",
+    "document_page": "https://vanban.chinhphu.vn/?classid=1&docid=198540&pageid=27160&typegroupid=3",
+    "download_url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2019/12/45.signed.pdf",
+    "issuer": "Quốc hội",
+    "issued_date": "2019-11-20",
+    "effective_date": "2021-01-01",
+    "status_note": "Đã được sửa đổi, bổ sung hoặc bãi bỏ một phần."
+  },
+  {
+    "filename": "nghi-dinh-145-2020-nd-cp.pdf",
+    "title": "Nghị định số 145/2020/NĐ-CP hướng dẫn Bộ luật Lao động về điều kiện lao động và quan hệ lao động",
+    "document_page": "https://vanban.chinhphu.vn/?docid=201967&pageid=27160",
+    "download_url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2020/12/145.signed.pdf",
+    "issuer": "Chính phủ",
+    "issued_date": "2020-12-14",
+    "effective_date": "2021-02-01",
+    "status_note": "Đã được sửa đổi, bổ sung hoặc bãi bỏ một phần."
+  },
+  {
+    "filename": "nghi-dinh-12-2022-nd-cp-xu-phat-lao-dong.pdf",
+    "title": "Nghị định số 12/2022/NĐ-CP về xử phạt vi phạm hành chính trong lĩnh vực lao động",
+    "document_page": "https://vanban.chinhphu.vn/?classid=1&docid=205182&orggroupid=2&pageid=27160",
+    "download_url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/01/12-2022-nd.signed.pdf",
+    "issuer": "Chính phủ",
+    "issued_date": "2022-01-17",
+    "effective_date": "2022-01-17",
+    "status_note": "Kiểm tra lịch sử hiệu lực trên trang văn bản trước khi tư vấn."
+  }
+]
+```
