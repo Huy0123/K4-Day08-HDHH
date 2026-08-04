@@ -1,17 +1,87 @@
 [
   {
-    "question": "Người mua có thể yêu cầu trả hàng/hoàn tiền trong thời hạn bao lâu sau khi nhận hàng?",
-    "expected_answer": "Trong vòng 15 ngày kể từ khi giao hàng thành công (24 giờ đối với thực phẩm tươi sống/đông lạnh).",
-    "expected_context": "Trang Returns and Refunds Policy, mục Return/Refund Eligibility"
+    "question": "Thời gian thử việc tối đa cho vị trí lập trình viên (Developer/IT) là bao lâu?",
+    "expected_answer": "Thời gian thử việc tối đa là 60 ngày đối với công việc có chức danh nghề nghiệp cần trình độ chuyên môn, kỹ thuật từ cao đẳng trở lên theo Điều 25 Bộ luật Lao động 2019.",
+    "expected_context": "Bộ luật Lao động 2019, Điều 25 - Thời gian thử việc"
   },
   {
-    "question": "Shopee hỗ trợ những phương thức thanh toán nào?",
-    "expected_answer": "ShopeePay Wallet, thẻ tín dụng/ghi nợ, trả góp qua thẻ, QR Code, chuyển khoản qua app ngân hàng, thẻ NAPAS, Apple Pay, Google Pay, và COD.",
-    "expected_context": "Trang Payment Methods Overview"
+    "question": "Mức lương thử việc tối thiểu bằng bao nhiêu % lương chính thức?",
+    "expected_answer": "Mức lương thử việc do hai bên thỏa thuận nhưng ít nhất phải bằng 85% mức lương của công việc đó theo Điều 26 Bộ luật Lao động 2019.",
+    "expected_context": "Bộ luật Lao động 2019, Điều 26 - Tiền lương thử việc"
   },
   {
-    "question": "Người bán không được đăng bán những sản phẩm nào?",
-    "expected_answer": "Hàng giả/nhái, sản phẩm bất hợp pháp, vi phạm sở hữu trí tuệ, và các mặt hàng nằm trong danh sách cấm của sàn.",
-    "expected_context": "Trang Product Listing Regulations, mục Prohibited Content"
+    "question": "Công ty sa thải người lao động qua tin nhắn Zalo hoặc Email có đúng luật không?",
+    "expected_answer": "Không đúng luật (trái pháp luật). Việc sa thải bắt buộc phải lập biên bản vi phạm, tổ chức phiên họp xử lý kỷ luật có đại diện công đoàn và ban hành quyết định bằng văn bản.",
+    "expected_context": "Bộ luật Lao động 2019, Điều 122 - Nguyên tắc, trình tự xử lý kỷ luật lao động"
+  },
+  {
+    "question": "Đơn phương chấm dứt hợp đồng lao động xác định thời hạn từ 12 đến 36 tháng phải báo trước bao nhiêu ngày?",
+    "expected_answer": "Người lao động hoặc NSDLĐ phải báo trước ít nhất 30 ngày theo Điều 35 và Điều 36 Bộ luật Lao động 2019.",
+    "expected_context": "Bộ luật Lao động 2019, Điều 35 & 36 - Quyền đơn phương chấm dứt hợp đồng lao động"
+  },
+  {
+    "question": "Mức trả tiền lương làm thêm giờ (OT) vào ngày nghỉ hàng tuần (cuối tuần) là bao nhiêu %?",
+    "expected_answer": "Làm thêm giờ vào ngày nghỉ hàng tuần (thứ 7, Chủ nhật) được trả lương ít nhất bằng 200% đơn giá tiền lương hoặc tiền lương thực trả theo công việc đang làm.",
+    "expected_context": "Bộ luật Lao động 2019, Điều 98 - Tiền lương làm thêm giờ, làm việc vào ban đêm"
+  },
+  {
+    "question": "Làm thêm giờ (OT) vào ban đêm (22h đến 6h) được trả thêm bao nhiêu %?",
+    "expected_answer": "Làm việc vào ban đêm được trả thêm ít nhất 30% tiền lương; nếu làm thêm giờ vào ban đêm còn được trả thêm 20% tiền lương tính theo đơn giá ngày làm việc bình thường hoặc ngày nghỉ.",
+    "expected_context": "Bộ luật Lao động 2019, Điều 98 - Tiền lương làm thêm giờ ban đêm"
+  },
+  {
+    "question": "Số ngày nghỉ phép hàng năm (phép năm) tối thiểu cho người làm việc đủ 12 tháng là bao nhiêu?",
+    "expected_answer": "Người lao động làm việc đủ 12 tháng được nghỉ 12 ngày làm việc hưởng nguyên lương đối với công việc trong điều kiện bình thường.",
+    "expected_context": "Bộ luật Lao động 2019, Điều 113 - Nghỉ hàng năm"
+  },
+  {
+    "question": "Cứ sau bao nhiêu năm làm việc thì số ngày nghỉ phép năm được tăng thêm 1 ngày?",
+    "expected_answer": "Cứ đủ 05 năm làm việc cho một người sử dụng lao động thì số ngày nghỉ phép hàng năm được tăng thêm tương ứng 01 ngày theo Điều 114.",
+    "expected_context": "Bộ luật Lao động 2019, Điều 114 - Ngày nghỉ hàng năm tăng theo thâm niên làm việc"
+  },
+  {
+    "question": "Người lao động chưa nghỉ hết phép năm khi thôi việc có được thanh toán tiền không?",
+    "expected_answer": "Trường hợp do thôi việc, mất việc làm mà chưa nghỉ hàng năm hoặc chưa nghỉ hết số ngày thì được NSDLĐ thanh toán tiền lương cho những ngày chưa nghỉ.",
+    "expected_context": "Bộ luật Lao động 2019, Điều 113 Khoản 3"
+  },
+  {
+    "question": "Thực tập sinh hoặc người học việc trực tiếp làm ra sản phẩm cho doanh nghiệp có được trả lương không?",
+    "expected_answer": "Có. Trường hợp người học việc/thực tập trực tiếp làm ra sản phẩm hoặc thực hiện công việc kinh doanh thì phải được trả lương theo thỏa thuận không thấp hơn mức lương tối thiểu vùng.",
+    "expected_context": "Bộ luật Lao động 2019, Điều 61 & 62 - Học việc, tập nghề"
+  },
+  {
+    "question": "Hợp đồng lao động có thời hạn dưới 01 tháng có được áp dụng thử việc không?",
+    "expected_answer": "Không được áp dụng thử việc đối với hợp đồng lao động có thời hạn dưới 01 tháng theo Khoản 3 Điều 24 Bộ luật Lao động 2019.",
+    "expected_context": "Bộ luật Lao động 2019, Điều 24 Khoản 3"
+  },
+  {
+    "question": "Hậu quả pháp lý khi công ty sa thải hoặc chấm dứt hợp đồng trái pháp luật là gì?",
+    "expected_answer": "NSDLĐ phải nhận NLĐ trở lại làm việc, trả đủ tiền lương, tiền bảo hiểm những ngày không được làm việc và bồi thường thêm ít nhất 02 tháng tiền lương.",
+    "expected_context": "Bộ luật Lao động 2019, Điều 41 - Nghĩa vụ của NSDLĐ khi đơn phương chấm dứt trái luật"
+  },
+  {
+    "question": "Số giờ làm thêm (OT) tối đa trong 01 tháng và 01 năm là bao nhiêu?",
+    "expected_answer": "Tổng số giờ làm thêm không quá 40 giờ trong 01 tháng và không quá 200 giờ trong 01 năm (trường hợp đặc biệt không quá 300 giờ/năm).",
+    "expected_context": "Bộ luật Lao động 2019, Điều 107 - Làm thêm giờ"
+  },
+  {
+    "question": "Điều kiện để người lao động được hưởng trợ cấp thất nghiệp là gì?",
+    "expected_answer": "Đã đóng bảo hiểm thất nghiệp từ đủ 12 tháng trở lên trong 24 tháng trước khi nghỉ việc và nộp hồ sơ trong thời hạn 03 tháng kể từ ngày chấm dứt HĐLĐ.",
+    "expected_context": "Luật Việc làm, Điều 49 - Điều kiện hưởng trợ cấp thất nghiệp"
+  },
+  {
+    "question": "Mức hưởng trợ cấp thất nghiệp hàng tháng bằng bao nhiêu % mức bình quân tiền lương đóng BHTN?",
+    "expected_answer": "Mức hưởng hàng tháng bằng 60% mức bình quân tiền lương tháng đóng BHTN của 06 tháng liền kề trước khi thất nghiệp.",
+    "expected_context": "Luật Việc làm, Điều 50 - Mức, thời gian, thời điểm hưởng trợ cấp thất nghiệp"
+  },
+  {
+    "question": "Người lao động tự ý bỏ việc không báo trước phải bồi thường những khoản gì?",
+    "expected_answer": "Không được nhận trợ cấp mất việc, phải bồi thường nửa tháng tiền lương, bồi thường tiền lương những ngày không báo trước và hoàn trả chi phí đào tạo (nếu có).",
+    "expected_context": "Bộ luật Lao động 2019, Điều 40 - Nghĩa vụ của NLĐ khi đơn phương chấm dứt trái luật"
+  },
+  {
+    "question": "Việc xử lý kỷ luật sa thải bắt buộc phải có sự tham gia của tổ chức nào?",
+    "expected_answer": "Bắt buộc phải có sự tham gia của đại diện tổ chức đại diện người lao động tại cơ sở (Công đoàn) theo Điều 122 Bộ luật Lao động 2019.",
+    "expected_context": "Bộ luật Lao động 2019, Điều 122 Khoản 1"
   }
 ]
