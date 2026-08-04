@@ -557,12 +557,12 @@ run_dashboard()
 
 ### Phân Công Công Việc
 
-| Thành viên | MSSV | Nhiệm vụ | Trạng thái |
-|-----------|------|----------|------------|
-| | | | |
-| | | | |
-| | | | |
-| | | | |
+| Thành viên | MSSV | Vai trò | Nhiệm vụ | File phụ trách | Trạng thái |
+|-----------|------|---------|----------|----------------|------------|
+| **Đinh Xuân Hiệp** *(Nhóm trưởng)* | 2A202601893 | Role 1 — Team Leader & Architect | Phân chia URL crawl, duyệt config chunking (`CHUNK_SIZE=800`, `overlap=100`, `bge-m3` 1024-dim), duyệt công thức RRF (k=60), chạy `pytest` chấm 50đ Task 1-10, ghép code tốt nhất vào app, thuyết trình kiến trúc & Q&A | `app.py`, `group_project/`, `tests/test_individual.py` | ✅ Hoàn thành |
+| **Nguyễn Quốc Huy** | 2A202601188 | Role 2 — Data & Retrieval Specialist | Task 1 (tải ≥3 PDF/DOCX chính sách), Task 4 (chunking + index ChromaDB), Task 7 (RRF reranking + Jina cross-encoder), Task 9 (hybrid pipeline + fallback theo cosine gốc < 0.48), nối `generate_with_citation()` vào UI | `src/task1_collect_legal_docs.py`, `src/task4_chunking_indexing.py`, `src/task7_reranking.py`, `src/task9_retrieval_pipeline.py` | ✅ Hoàn thành |
+| **Nguyễn Quang Hướng** | 2A202601858 | Role 3 — Frontend & Chatbot Dev | Task 2 (crawl ≥5 bài + metadata), Task 5 (semantic search + HyDE), Task 8 (PageIndex vectorless RAG), Task 10 (reorder tránh lost-in-the-middle + generation có citation), hoàn thiện Streamlit UI, chạy live demo | `src/task2_crawl_news.py`, `src/task5_semantic_search.py`, `src/task8_pageindex_vectorless.py`, `src/task10_generation.py`, `app.py` | ✅ Hoàn thành |
+| **Nguyễn Minh Dương** | 2A202601206 | Role 4 — Evaluation & QA Engineer | Task 3 (convert MarkItDown), Task 6 (BM25 + TF-IDF), test câu hỏi ngoài domain để verify fallback, rà soát định dạng citation, xây `golden_dataset.json` (15 Q&A) + chạy eval 4 metrics và so sánh A/B | `src/task3_convert_markdown.py`, `src/task6_lexical_search.py`, `group_project/evaluation/` | ✅ Hoàn thành |
 
 ---
 
